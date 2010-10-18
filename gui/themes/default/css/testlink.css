@@ -540,7 +540,9 @@ div.failed {
 div.blocked {
 	background:		#00008B; /* darkblue */
 }
-
+div.in_progress {
+	background:             ##C0C000; /* dark yellow */
+}
 div.not_run {
 	background:		black;
 }
@@ -577,6 +579,10 @@ span.light_not_available {
 
 span.light_unknown {
 	background: 		#DDFFFF; /* cyan; */
+}
+
+span.light_in_progress {
+	background:             #F8EEDD; /* yellow */
 }
 
 /* ***** render test result status (coloring background) ************************* */
