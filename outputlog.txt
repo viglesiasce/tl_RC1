@@ -2,5 +2,5 @@ occam
 enable
 razor
 terminal length 0
-show gpon ont summary
+show version
 no terminal length

@@ -180,3 +180,2091 @@
 [>>][4cb89d968450f801655349][DEFAULT][/testlink_test/lib/execute/execNavigator.php][10/Oct/15 18:29:42]
 [>>][4cb89d9966f62323884243][DEFAULT][/testlink_test/lib/execute/execNavigator.php][10/Oct/15 18:29:45]
 [>>][4cb89da21d3f0994271096][DEFAULT][/testlink_test/lib/execute/execNavigator.php][10/Oct/15 18:29:54]
+[>>][4cbc9dff9fbea177429499][DEFAULT][/index.php][10/Oct/18 19:20:31]
+	[10/Oct/18 19:20:31][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:31][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:31][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:31][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9dffb41d2021761090][DEFAULT][/lib/general/navBar.php][10/Oct/18 19:20:31]
+[>>][4cbc9dffb5eb5934952935][DEFAULT][/lib/general/mainPage.php][10/Oct/18 19:20:31]
+	[10/Oct/18 19:20:31][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:31][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:31][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:31][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:31][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:31][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:31][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:31][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e01bedae046887708][DEFAULT][/lib/general/frmWorkArea.php][10/Oct/18 19:20:33]
+	[10/Oct/18 19:20:33][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:33][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:33][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:33][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e01dbd4c129086526][DEFAULT][/lib/general/staticPage.php][10/Oct/18 19:20:33]
+[>>][4cbc9e01db780956868330][DEFAULT][/lib/results/resultsNavigator.php][10/Oct/18 19:20:33]
+	[10/Oct/18 19:20:33][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:33][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:33][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:33][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:33][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:33][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:33][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:33][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e021bb6c394111837][DEFAULT][/lib/general/staticPage.php][10/Oct/18 19:20:34]
+	[10/Oct/18 19:20:34][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:34][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:34][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:34][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e032d21c054130980][DEFAULT][/lib/results/printDocOptions.php][10/Oct/18 19:20:35]
+	[10/Oct/18 19:20:35][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:35][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:35][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:35][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e0472b7b964604988][DEFAULT][/lib/results/printDocOptions.php][10/Oct/18 19:20:36]
+	[10/Oct/18 19:20:36][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:36][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:36][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:36][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e05845cd166375067][DEFAULT][/lib/results/resultsGeneral.php][10/Oct/18 19:20:37]
+	[10/Oct/18 19:20:37][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:37][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:37][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:37][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e070a77a185917874][DEFAULT][/lib/results/resultsByTesterPerBuild.php][10/Oct/18 19:20:39]
+	[10/Oct/18 19:20:39][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:39][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:39][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:39][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e086f66c744978724][DEFAULT][/lib/testcases/tcAssignedToUser.php][10/Oct/18 19:20:40]
+	[10/Oct/18 19:20:40][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:40][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:40][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:40][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e0a6cbca778330533][DEFAULT][/lib/results/resultsMoreBuildsGUI.php][10/Oct/18 19:20:42]
+	[10/Oct/18 19:20:42][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:42][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:42][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:42][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e0b62f89541942001][DEFAULT][/lib/results/resultsTC.php][10/Oct/18 19:20:43]
+	[10/Oct/18 19:20:43][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:43][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:43][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:43][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e0fefe59998097951][DEFAULT][/lib/results/resultsByStatus.php][10/Oct/18 19:20:47]
+	[10/Oct/18 19:20:48][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:48][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:48][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:48][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e10ede62877657637][DEFAULT][/lib/results/resultsByStatus.php][10/Oct/18 19:20:48]
+	[10/Oct/18 19:20:49][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:49][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:49][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:49][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e135beb7846981660][DEFAULT][/lib/usermanagement/userInfo.php][10/Oct/18 19:20:51]
+	[10/Oct/18 19:20:51][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:51][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:51][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:51][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e16e412f957076845][DEFAULT][/index.php][10/Oct/18 19:20:54]
+	[10/Oct/18 19:20:54][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:54][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:54][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:54][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e17066b6417143434][DEFAULT][/lib/general/navBar.php][10/Oct/18 19:20:55]
+[>>][4cbc9e1706e00456478785][DEFAULT][/lib/general/mainPage.php][10/Oct/18 19:20:55]
+	[10/Oct/18 19:20:55][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:55][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:55][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:55][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:55][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:55][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:55][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:20:55][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e20d20a0678774726][DEFAULT][/lib/testcases/tcAssignedToUser.php][10/Oct/18 19:21:04]
+	[10/Oct/18 19:21:04][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:04][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:04][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:04][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e22b1822977176935][DEFAULT][/lib/usermanagement/usersView.php][10/Oct/18 19:21:06]
+	[10/Oct/18 19:21:06][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:06][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:06][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:06][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e24597ad923343300][DEFAULT][/lib/general/frmWorkArea.php][10/Oct/18 19:21:08]
+	[10/Oct/18 19:21:08][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:08][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:08][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:08][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e2475710233379816][DEFAULT][/lib/general/staticPage.php][10/Oct/18 19:21:08]
+[>>][4cbc9e2475fd9546317397][DEFAULT][/lib/results/resultsNavigator.php][10/Oct/18 19:21:08]
+	[10/Oct/18 19:21:08][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:08][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:08][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:08][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:08][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:08][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:08][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:08][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e24af920141080358][DEFAULT][/lib/general/staticPage.php][10/Oct/18 19:21:08]
+	[10/Oct/18 19:21:08][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:08][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:08][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:08][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e2686285277292029][DEFAULT][/lib/results/resultsMoreBuildsGUI.php][10/Oct/18 19:21:10]
+	[10/Oct/18 19:21:10][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:10][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:10][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:10][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e27bb997157253094][DEFAULT][/lib/results/resultsMoreBuilds.php][10/Oct/18 19:21:11]
+	[10/Oct/18 19:21:11][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:11][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:11][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:11][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e306cd72428927033][DEFAULT][/lib/results/charts.php][10/Oct/18 19:21:20]
+	[10/Oct/18 19:21:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e30b09eb638548132][DEFAULT][/lib/results/platformPieChart.php][10/Oct/18 19:21:20]
+[>>][4cbc9e30b0f11735875692][DEFAULT][/lib/results/platformPieChart.php][10/Oct/18 19:21:20]
+[>>][4cbc9e30b1643178620423][DEFAULT][/lib/results/overallPieChart.php][10/Oct/18 19:21:20]
+[>>][4cbc9e30b1c98034817440][DEFAULT][/lib/results/platformPieChart.php][10/Oct/18 19:21:20]
+[>>][4cbc9e30bb3bf180515932][DEFAULT][/lib/results/keywordBarChart.php][10/Oct/18 19:21:20]
+[>>][4cbc9e30c3081465509317][DEFAULT][/lib/results/ownerBarChart.php][10/Oct/18 19:21:20]
+	[10/Oct/18 19:21:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e31866fe504310219][DEFAULT][/lib/results/topLevelSuitesBarChart.php][10/Oct/18 19:21:21]
+	[10/Oct/18 19:21:21][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:21][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:21][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:21][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e4115557371739399][DEFAULT][/lib/results/resultsNavigator.php][10/Oct/18 19:21:37]
+	[10/Oct/18 19:21:37][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:37][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:37][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:37][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e41383b2817368760][DEFAULT][/lib/general/staticPage.php][10/Oct/18 19:21:37]
+	[10/Oct/18 19:21:37][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:37][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:37][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:37][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e4572c4e734173390][DEFAULT][/lib/results/charts.php][10/Oct/18 19:21:41]
+	[10/Oct/18 19:21:41][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:41][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:41][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:41][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e45ae694075420936][DEFAULT][/lib/results/overallPieChart.php][10/Oct/18 19:21:41]
+[>>][4cbc9e45b55df563961512][DEFAULT][/lib/results/ownerBarChart.php][10/Oct/18 19:21:41]
+[>>][4cbc9e45b65aa773358699][DEFAULT][/lib/results/topLevelSuitesBarChart.php][10/Oct/18 19:21:41]
+[>>][4cbc9e45c2b71386824073][DEFAULT][/lib/results/keywordBarChart.php][10/Oct/18 19:21:41]
+	[10/Oct/18 19:21:41][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:41][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:41][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:41][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:41][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:41][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:41][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:41][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:41][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:41][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:41][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:41][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:41][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:41][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:41][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:41][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e5267315685051213][DEFAULT][/lib/results/resultsBugs.php][10/Oct/18 19:21:54]
+	[10/Oct/18 19:21:54][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:54][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:54][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:21:54][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e5c7ab45569389668][DEFAULT][/index.php][10/Oct/18 19:22:04]
+	[10/Oct/18 19:22:04][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:22:04][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:22:04][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:22:04][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9e5c90069606585390][DEFAULT][/lib/general/navBar.php][10/Oct/18 19:22:04]
+[>>][4cbc9e5c90a6c528806591][DEFAULT][/lib/general/mainPage.php][10/Oct/18 19:22:04]
+	[10/Oct/18 19:22:04][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:22:04][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:22:04][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:22:04][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:22:04][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:22:04][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:22:04][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:22:04][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9efdb2ad4254716886][DEFAULT][/index.php][10/Oct/18 19:24:45]
+	[10/Oct/18 19:24:45][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:24:45][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:24:45][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:24:45][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9efdce818675407323][DEFAULT][/lib/general/navBar.php][10/Oct/18 19:24:45]
+[>>][4cbc9efdcf0a5955036183][DEFAULT][/lib/general/mainPage.php][10/Oct/18 19:24:45]
+	[10/Oct/18 19:24:45][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:24:45][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:24:45][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:24:45][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:24:45][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:24:45][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:24:45][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:24:45][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9f02266ee373787599][DEFAULT][/lib/general/frmWorkArea.php][10/Oct/18 19:24:50]
+	[10/Oct/18 19:24:50][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:24:50][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:24:50][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:24:50][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9f0244756404691370][DEFAULT][/lib/results/resultsNavigator.php][10/Oct/18 19:24:50]
+[>>][4cbc9f0244a91933497081][DEFAULT][/lib/general/staticPage.php][10/Oct/18 19:24:50]
+	[10/Oct/18 19:24:50][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:24:50][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:24:50][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:24:50][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:24:50][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:24:50][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:24:50][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:24:50][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9f0282212613237229][DEFAULT][/lib/general/staticPage.php][10/Oct/18 19:24:50]
+	[10/Oct/18 19:24:50][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:24:50][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:24:50][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:24:50][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9f0e3fdf5731196342][DEFAULT][/lib/results/resultsGeneral.php][10/Oct/18 19:25:02]
+	[10/Oct/18 19:25:02][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:02][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:02][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:02][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9f1513a2a313731558][DEFAULT][/lib/results/printDocOptions.php][10/Oct/18 19:25:09]
+	[10/Oct/18 19:25:09][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:09][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:09][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:09][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9f182f8e6923946098][DEFAULT][/lib/results/printDocument.php][10/Oct/18 19:25:12]
+	[10/Oct/18 19:25:12][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:12][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:12][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:12][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9f203bb55421595265][DEFAULT][/lib/general/frmWorkArea.php][10/Oct/18 19:25:20]
+	[10/Oct/18 19:25:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9f205988c643287075][DEFAULT][/lib/execute/execNavigator.php][10/Oct/18 19:25:20]
+[>>][4cbc9f2059f77015393511][DEFAULT][/lib/general/staticPage.php][10/Oct/18 19:25:20]
+	[10/Oct/18 19:25:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9f2476167832481998][DEFAULT][/lib/execute/execSetResults.php][10/Oct/18 19:25:24]
+	[10/Oct/18 19:25:24][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:24][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:24][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:24][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9f3b4bb93973739504][DEFAULT][/index.php][10/Oct/18 19:25:47]
+	[10/Oct/18 19:25:47][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:47][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:47][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:47][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9f3b630d7966850494][DEFAULT][/lib/general/navBar.php][10/Oct/18 19:25:47]
+[>>][4cbc9f3b6526f467140364][DEFAULT][/lib/general/mainPage.php][10/Oct/18 19:25:47]
+	[10/Oct/18 19:25:47][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:47][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:47][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:47][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:47][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:47][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:47][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:47][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9f3d8d2bf957026785][DEFAULT][/lib/testcases/tcAssignedToUser.php][10/Oct/18 19:25:49]
+	[10/Oct/18 19:25:49][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:49][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:49][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:25:49][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9f5604ddd622036557][DEFAULT][/lib/general/mainPage.php][10/Oct/18 19:26:14]
+	[10/Oct/18 19:26:14][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:26:14][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:26:14][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:26:14][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9f5864a82009995101][DEFAULT][/lib/plan/buildView.php][10/Oct/18 19:26:16]
+	[10/Oct/18 19:26:16][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:26:16][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:26:16][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:26:16][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9f5a36576174269025][DEFAULT][/lib/plan/buildEdit.php][10/Oct/18 19:26:18]
+	[10/Oct/18 19:26:18][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:26:18][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:26:18][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:26:18][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9f842a304653127100][DEFAULT][/lib/plan/buildEdit.php][10/Oct/18 19:27:00]
+	[10/Oct/18 19:27:00][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:00][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:00][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:00][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9f8833ec3084624349][DEFAULT][/index.php][10/Oct/18 19:27:04]
+	[10/Oct/18 19:27:04][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:04][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:04][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:04][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9f8847740523648979][DEFAULT][/lib/general/navBar.php][10/Oct/18 19:27:04]
+[>>][4cbc9f884adcc784198377][DEFAULT][/lib/general/mainPage.php][10/Oct/18 19:27:04]
+	[10/Oct/18 19:27:04][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:04][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:04][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:04][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:04][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:04][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:04][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:04][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9f8cce127831936044][DEFAULT][/lib/general/frmWorkArea.php][10/Oct/18 19:27:08]
+	[10/Oct/18 19:27:08][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:08][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:08][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:08][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9f8ce4f68656236087][DEFAULT][/lib/general/staticPage.php][10/Oct/18 19:27:08]
+[>>][4cbc9f8ce5790114481779][DEFAULT][/lib/plan/planAddTCNavigator.php][10/Oct/18 19:27:08]
+	[10/Oct/18 19:27:08][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:08][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:08][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:08][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:08][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:08][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:08][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:08][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9f8d77b94543795590][DEFAULT][/lib/ajax/gettprojectnodes.php][10/Oct/18 19:27:09]
+	[10/Oct/18 19:27:09][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:09][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:09][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:09][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9f8d9e8b7259750327][DEFAULT][/lib/ajax/gettprojectnodes.php][10/Oct/18 19:27:09]
+[>>][4cbc9f8da824b649576363][DEFAULT][/lib/ajax/gettprojectnodes.php][10/Oct/18 19:27:09]
+	[10/Oct/18 19:27:09][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:09][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:09][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:09][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:09][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:09][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:09][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:09][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9f8dcca3b613916433][DEFAULT][/lib/ajax/gettprojectnodes.php][10/Oct/18 19:27:09]
+	[10/Oct/18 19:27:09][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:09][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:09][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:09][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9f8de6b2c685418860][DEFAULT][/lib/ajax/gettprojectnodes.php][10/Oct/18 19:27:09]
+	[10/Oct/18 19:27:09][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:09][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:09][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:09][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9f9529343200245664][DEFAULT][/lib/plan/planAddTC.php][10/Oct/18 19:27:17]
+	[10/Oct/18 19:27:17][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:17][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:17][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:17][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9f9c824a7105412244][DEFAULT][/lib/ajax/gettestcasesummary.php][10/Oct/18 19:27:24]
+	[10/Oct/18 19:27:24][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:24][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:24][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:24][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9fa639a46243196748][DEFAULT][/lib/plan/planAddTC.php][10/Oct/18 19:27:34]
+	[10/Oct/18 19:27:34][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:34][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:34][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:34][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9fa7a6f15197423366][DEFAULT][/lib/plan/planAddTCNavigator.php][10/Oct/18 19:27:35]
+	[10/Oct/18 19:27:35][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:35][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:35][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:35][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9fa81fc01645007167][DEFAULT][/lib/ajax/gettprojectnodes.php][10/Oct/18 19:27:36]
+	[10/Oct/18 19:27:36][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:36][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:36][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:36][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9fa83f99a496050563][DEFAULT][/lib/ajax/gettprojectnodes.php][10/Oct/18 19:27:36]
+	[10/Oct/18 19:27:36][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:36][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:36][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:36][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9fa85c19d548443872][DEFAULT][/lib/ajax/gettprojectnodes.php][10/Oct/18 19:27:36]
+	[10/Oct/18 19:27:36][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:36][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:36][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:36][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9fa878823113097021][DEFAULT][/lib/ajax/gettprojectnodes.php][10/Oct/18 19:27:36]
+	[10/Oct/18 19:27:36][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:36][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:36][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:36][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9fb3d7e0e820559875][DEFAULT][/lib/general/frmWorkArea.php][10/Oct/18 19:27:47]
+	[10/Oct/18 19:27:47][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:47][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:47][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:47][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbc9fb400a29503985532][DEFAULT][/lib/general/staticPage.php][10/Oct/18 19:27:48]
+[>>][4cbc9fb400f36741037408][DEFAULT][/lib/execute/execNavigator.php][10/Oct/18 19:27:48]
+	[10/Oct/18 19:27:48][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:48][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:48][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:48][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:48][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:48][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:48][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:27:48][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca00f729a2926443174][DEFAULT][/index.php][10/Oct/18 19:29:19]
+	[10/Oct/18 19:29:19][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:29:19][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:29:19][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:29:19][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca00f88444376591668][DEFAULT][/lib/general/mainPage.php][10/Oct/18 19:29:19]
+[>>][4cbca00f88dc8442158670][DEFAULT][/lib/general/navBar.php][10/Oct/18 19:29:19]
+	[10/Oct/18 19:29:19][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:29:19][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:29:19][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:29:19][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:29:19][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:29:19][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:29:19][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:29:19][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca011bc955402835911][DEFAULT][/lib/general/frmWorkArea.php][10/Oct/18 19:29:21]
+	[10/Oct/18 19:29:21][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:29:21][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:29:21][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:29:21][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca011dd0c3507067945][DEFAULT][/lib/general/staticPage.php][10/Oct/18 19:29:21]
+[>>][4cbca011ddc5d121970543][DEFAULT][/lib/execute/execNavigator.php][10/Oct/18 19:29:21]
+	[10/Oct/18 19:29:21][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:29:21][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:29:21][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:29:21][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:29:21][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:29:21][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:29:21][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:29:21][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca0385695e508613507][DEFAULT][/index.php][10/Oct/18 19:30:00]
+	[10/Oct/18 19:30:00][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:30:00][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:30:00][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:30:00][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca03870aba239833607][DEFAULT][/lib/general/navBar.php][10/Oct/18 19:30:00]
+[>>][4cbca0387146b959092128][DEFAULT][/lib/general/mainPage.php][10/Oct/18 19:30:00]
+	[10/Oct/18 19:30:00][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:30:00][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:30:00][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:30:00][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:30:00][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:30:00][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:30:00][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:30:00][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca03a625db928429788][DEFAULT][/lib/general/frmWorkArea.php][10/Oct/18 19:30:02]
+	[10/Oct/18 19:30:02][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:30:02][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:30:02][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:30:02][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca03a7f3af631944135][DEFAULT][/lib/general/staticPage.php][10/Oct/18 19:30:02]
+[>>][4cbca03a801e0269206776][DEFAULT][/lib/execute/execNavigator.php][10/Oct/18 19:30:02]
+	[10/Oct/18 19:30:02][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:30:02][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:30:02][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:30:02][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:30:02][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:30:02][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:30:02][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:30:02][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca0be0170f742291197][DEFAULT][/lib/execute/execNavigator.php][10/Oct/18 19:32:14]
+	[10/Oct/18 19:32:14][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:14][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:14][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:14][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca0c08c1e1226496094][DEFAULT][/lib/execute/execSetResults.php][10/Oct/18 19:32:16]
+	[10/Oct/18 19:32:16][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:16][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:16][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:16][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca0c2aa2cf770770418][DEFAULT][/lib/execute/execSetResults.php][10/Oct/18 19:32:18]
+	[10/Oct/18 19:32:18][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:18][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:18][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:18][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca0ced5b94817358405][DEFAULT][/lib/execute/execNavigator.php][10/Oct/18 19:32:30]
+	[10/Oct/18 19:32:30][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:30][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:30][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:30][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca0d819c39786258734][DEFAULT][/lib/execute/execSetResults.php][10/Oct/18 19:32:40]
+	[10/Oct/18 19:32:40][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:40][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:40][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:40][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca0dac8439071464454][DEFAULT][/lib/execute/execNavigator.php][10/Oct/18 19:32:42]
+	[10/Oct/18 19:32:42][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:42][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:42][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:42][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca0dd4744f392150213][DEFAULT][/lib/execute/execSetResults.php][10/Oct/18 19:32:45]
+	[10/Oct/18 19:32:45][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:45][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:45][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:45][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca0e577fed678687367][DEFAULT][/index.php][10/Oct/18 19:32:53]
+	[10/Oct/18 19:32:53][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:53][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:53][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:53][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca0e58cecf777347307][DEFAULT][/lib/general/navBar.php][10/Oct/18 19:32:53]
+[>>][4cbca0e58f6fe126975803][DEFAULT][/lib/general/mainPage.php][10/Oct/18 19:32:53]
+	[10/Oct/18 19:32:53][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:53][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:53][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:53][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:53][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:53][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:53][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:32:53][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca0f2ae5f7352249515][DEFAULT][/lib/testcases/tcAssignedToUser.php][10/Oct/18 19:33:06]
+	[10/Oct/18 19:33:06][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:33:06][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:33:06][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:33:06][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca10e7dba2671509653][DEFAULT][/lib/general/frmWorkArea.php][10/Oct/18 19:33:34]
+	[10/Oct/18 19:33:34][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:33:34][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:33:34][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:33:34][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca10e9c8dc836836446][DEFAULT][/lib/general/staticPage.php][10/Oct/18 19:33:34]
+[>>][4cbca10e9c3d6063248235][DEFAULT][/lib/plan/planTCNavigator.php][10/Oct/18 19:33:34]
+	[10/Oct/18 19:33:34][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:33:34][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:33:34][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:33:34][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:33:34][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:33:34][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:33:34][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:33:34][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca113c4be2485393508][DEFAULT][/lib/plan/tc_exec_assignment.php][10/Oct/18 19:33:39]
+	[10/Oct/18 19:33:39][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:33:39][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:33:39][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:33:39][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca113e6fa1067609840][DEFAULT][/lib/general/staticPage.php][10/Oct/18 19:33:39]
+	[10/Oct/18 19:33:39][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:33:39][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:33:39][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:33:39][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca115cc9f0898629700][DEFAULT][/lib/plan/tc_exec_assignment.php][10/Oct/18 19:33:41]
+	[10/Oct/18 19:33:41][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:33:41][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:33:41][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:33:41][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca1259346c966749123][DEFAULT][/lib/plan/tc_exec_assignment.php][10/Oct/18 19:33:57]
+	[10/Oct/18 19:33:57][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:33:57][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:33:57][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:33:57][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca18f5afc1595622738][DEFAULT][/lib/plan/tc_exec_assignment.php][10/Oct/18 19:35:43]
+	[10/Oct/18 19:35:43][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:35:43][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:35:43][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:35:43][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca1b503ecb679132045][DEFAULT][/lib/plan/tc_exec_assignment.php][10/Oct/18 19:36:21]
+	[10/Oct/18 19:36:21][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:36:21][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:36:21][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:36:21][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca1c3aa805242537323][DEFAULT][/lib/testcases/tcAssignedToUser.php][10/Oct/18 19:36:35]
+	[10/Oct/18 19:36:35][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:36:35][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:36:35][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:36:35][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca1f71249e316626723][DEFAULT][/lib/plan/tc_exec_unassign_all.php][10/Oct/18 19:37:27]
+	[10/Oct/18 19:37:27][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:37:27][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:37:27][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:37:27][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca1fac1832714338687][DEFAULT][/lib/plan/tc_exec_unassign_all.php][10/Oct/18 19:37:30]
+	[10/Oct/18 19:37:30][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:37:30][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:37:30][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:37:30][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca1fb2753e794874711][DEFAULT][/lib/plan/planTCNavigator.php][10/Oct/18 19:37:31]
+	[10/Oct/18 19:37:31][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:37:31][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:37:31][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:37:31][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca1fd35d53156371616][DEFAULT][/lib/plan/tc_exec_assignment.php][10/Oct/18 19:37:33]
+	[10/Oct/18 19:37:33][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:37:33][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:37:33][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:37:33][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca20673c47925324986][DEFAULT][/lib/plan/tc_exec_assignment.php][10/Oct/18 19:37:42]
+	[10/Oct/18 19:37:42][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:37:42][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:37:42][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:37:42][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca20d868f2103455601][DEFAULT][/lib/plan/tc_exec_assignment.php][10/Oct/18 19:37:49]
+	[10/Oct/18 19:37:49][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:37:49][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:37:49][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:37:49][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca23a1cd03199752836][DEFAULT][/lib/plan/tc_exec_assignment.php][10/Oct/18 19:38:34]
+	[10/Oct/18 19:38:34][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:38:34][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:38:34][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:38:34][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca250dcb71350703381][DEFAULT][/lib/general/frmWorkArea.php][10/Oct/18 19:38:56]
+	[10/Oct/18 19:38:56][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:38:56][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:38:56][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:38:56][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca25105831305287755][DEFAULT][/lib/execute/execNavigator.php][10/Oct/18 19:38:57]
+[>>][4cbca25105d05162922891][DEFAULT][/lib/general/staticPage.php][10/Oct/18 19:38:57]
+	[10/Oct/18 19:38:57][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:38:57][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:38:57][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:38:57][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:38:57][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:38:57][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:38:57][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:38:57][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2524279e231308335][DEFAULT][/index.php][10/Oct/18 19:38:58]
+	[10/Oct/18 19:38:58][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:38:58][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:38:58][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:38:58][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca25257831378630874][DEFAULT][/lib/general/navBar.php][10/Oct/18 19:38:58]
+[>>][4cbca252596ce277090956][DEFAULT][/lib/general/mainPage.php][10/Oct/18 19:38:58]
+	[10/Oct/18 19:38:58][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:38:58][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:38:58][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:38:58][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:38:58][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:38:58][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:38:58][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:38:58][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2547afad705297317][DEFAULT][/lib/testcases/tcAssignedToUser.php][10/Oct/18 19:39:00]
+	[10/Oct/18 19:39:00][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:00][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:00][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:00][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca25e7129b181510494][DEFAULT][/index.php][10/Oct/18 19:39:10]
+	[10/Oct/18 19:39:10][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:10][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:10][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:10][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca25e891ec339118597][DEFAULT][/lib/general/navBar.php][10/Oct/18 19:39:10]
+[>>][4cbca25e89966225457421][DEFAULT][/lib/general/mainPage.php][10/Oct/18 19:39:10]
+	[10/Oct/18 19:39:10][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:10][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:10][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:10][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:10][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:10][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:10][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:10][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca26151f96529082239][DEFAULT][/lib/plan/planView.php][10/Oct/18 19:39:13]
+	[10/Oct/18 19:39:13][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:13][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:13][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:13][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca26881b39586288436][DEFAULT][/lib/plan/planEdit.php][10/Oct/18 19:39:20]
+	[10/Oct/18 19:39:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca26dc3b26997889358][DEFAULT][/lib/plan/planEdit.php][10/Oct/18 19:39:25]
+	[10/Oct/18 19:39:25][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:25][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:25][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:25][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2709193a546351002][DEFAULT][/lib/plan/planEdit.php][10/Oct/18 19:39:28]
+	[10/Oct/18 19:39:28][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:28][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:28][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:28][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca272e73ce658434318][DEFAULT][/index.php][10/Oct/18 19:39:30]
+	[10/Oct/18 19:39:30][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:30][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:30][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:30][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2730711f514923404][DEFAULT][/lib/general/navBar.php][10/Oct/18 19:39:31]
+[>>][4cbca2730a9be527608919][DEFAULT][/lib/general/mainPage.php][10/Oct/18 19:39:31]
+	[10/Oct/18 19:39:31][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:31][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:31][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:31][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:31][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:31][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:31][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:31][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca278c749c425111894][DEFAULT][/lib/general/frmWorkArea.php][10/Oct/18 19:39:36]
+	[10/Oct/18 19:39:36][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:36][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:36][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:36][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca278e3915156873730][DEFAULT][/lib/general/staticPage.php][10/Oct/18 19:39:36]
+[>>][4cbca278e41f2181783295][DEFAULT][/lib/execute/execNavigator.php][10/Oct/18 19:39:36]
+	[10/Oct/18 19:39:36][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:36][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:36][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:36][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:36][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:36][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:36][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:36][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca28679487372682401][DEFAULT][/lib/execute/execSetResults.php][10/Oct/18 19:39:50]
+	[10/Oct/18 19:39:50][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:50][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:50][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:39:50][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca297dfb23297971438][DEFAULT][/lib/execute/execNavigator.php][10/Oct/18 19:40:07]
+	[10/Oct/18 19:40:07][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:07][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:07][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:07][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca29c2666c686657881][DEFAULT][/lib/execute/execSetResults.php][10/Oct/18 19:40:12]
+	[10/Oct/18 19:40:12][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:12][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:12][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:12][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca29e4f0c5789164707][DEFAULT][/lib/execute/execSetResults.php][10/Oct/18 19:40:14]
+	[10/Oct/18 19:40:14][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:14][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:14][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:14][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca29ec5766180776449][DEFAULT][/lib/execute/execNavigator.php][10/Oct/18 19:40:14]
+	[10/Oct/18 19:40:14][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:14][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:14][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:14][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2a33710a368302694][DEFAULT][/lib/execute/getExecNotes.php][10/Oct/18 19:40:19]
+	[10/Oct/18 19:40:19][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:19][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:19][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:19][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2b33395c908460480][DEFAULT][/index.php][10/Oct/18 19:40:35]
+	[10/Oct/18 19:40:35][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:35][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:35][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:35][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2b34794f444132581][DEFAULT][/lib/general/navBar.php][10/Oct/18 19:40:35]
+[>>][4cbca2b34adf7747095046][DEFAULT][/lib/general/mainPage.php][10/Oct/18 19:40:35]
+	[10/Oct/18 19:40:35][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:35][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:35][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:35][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:35][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:35][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:35][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:35][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2b582ea6477145893][DEFAULT][/lib/general/frmWorkArea.php][10/Oct/18 19:40:37]
+	[10/Oct/18 19:40:37][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:37][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:37][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:37][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2b5a3b8a573031960][DEFAULT][/lib/general/staticPage.php][10/Oct/18 19:40:37]
+[>>][4cbca2b5a410c068462596][DEFAULT][/lib/testcases/listTestCases.php][10/Oct/18 19:40:37]
+	[10/Oct/18 19:40:37][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:37][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:37][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:37][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:37][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:37][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:37][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:37][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2b6393eb253948259][DEFAULT][/lib/ajax/gettprojectnodes.php][10/Oct/18 19:40:38]
+	[10/Oct/18 19:40:38][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:38][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:38][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:38][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2b6591a1612011480][DEFAULT][/lib/ajax/gettprojectnodes.php][10/Oct/18 19:40:38]
+	[10/Oct/18 19:40:38][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:38][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:38][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:38][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2b676da3805931631][DEFAULT][/lib/ajax/gettprojectnodes.php][10/Oct/18 19:40:38]
+	[10/Oct/18 19:40:38][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:38][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:38][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:38][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2b7b8922660601519][DEFAULT][/lib/testcases/archiveData.php][10/Oct/18 19:40:39]
+	[10/Oct/18 19:40:39][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:39][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:39][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:39][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2bc168cd692059633][DEFAULT][/lib/general/frmWorkArea.php][10/Oct/18 19:40:44]
+	[10/Oct/18 19:40:44][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:44][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:44][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:44][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2bc35a62157407473][DEFAULT][/lib/general/staticPage.php][10/Oct/18 19:40:44]
+[>>][4cbca2bc35364185356522][DEFAULT][/lib/requirements/reqSpecListTree.php][10/Oct/18 19:40:44]
+	[10/Oct/18 19:40:44][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:44][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:44][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:44][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:44][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:44][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:44][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:44][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2bcc0550255832666][DEFAULT][/lib/ajax/getrequirementnodes.php][10/Oct/18 19:40:44]
+	[10/Oct/18 19:40:44][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:44][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:44][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:44][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2bce371b964295489][DEFAULT][/lib/ajax/getrequirementnodes.php][10/Oct/18 19:40:44]
+	[10/Oct/18 19:40:44][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:44][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:44][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:44][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2be3a961898661628][DEFAULT][/lib/general/frmWorkArea.php][10/Oct/18 19:40:46]
+	[10/Oct/18 19:40:46][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:46][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:46][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:46][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2be52780655316623][DEFAULT][/lib/testcases/listTestCases.php][10/Oct/18 19:40:46]
+[>>][4cbca2be5312d191585236][DEFAULT][/lib/testcases/archiveData.php][10/Oct/18 19:40:46]
+	[10/Oct/18 19:40:46][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:46][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:46][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:46][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:46][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:46][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:46][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:46][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2bf217df639124276][DEFAULT][/lib/ajax/gettprojectnodes.php][10/Oct/18 19:40:47]
+	[10/Oct/18 19:40:47][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:47][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:47][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:47][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2bf3f5b3942591067][DEFAULT][/lib/ajax/gettprojectnodes.php][10/Oct/18 19:40:47]
+	[10/Oct/18 19:40:47][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:47][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:47][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:47][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2bf5defd909727537][DEFAULT][/lib/ajax/gettprojectnodes.php][10/Oct/18 19:40:47]
+	[10/Oct/18 19:40:47][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:47][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:47][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:47][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2c64ec6f320211282][DEFAULT][/lib/testcases/tcEdit.php][10/Oct/18 19:40:54]
+	[10/Oct/18 19:40:54][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:54][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:54][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:54][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2c92d77a271946817][DEFAULT][/lib/testcases/tcEdit.php][10/Oct/18 19:40:57]
+	[10/Oct/18 19:40:57][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:57][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:57][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:40:57][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2cf3cfc7800723424][DEFAULT][/lib/requirements/reqTcAssign.php][10/Oct/18 19:41:03]
+	[10/Oct/18 19:41:03][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:03][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:03][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:03][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2d7b3b69613386501][DEFAULT][/lib/general/frmWorkArea.php][10/Oct/18 19:41:11]
+	[10/Oct/18 19:41:11][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:11][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:11][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:11][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2d7d1725894087862][DEFAULT][/lib/execute/execNavigator.php][10/Oct/18 19:41:11]
+[>>][4cbca2d7d1cf8731449929][DEFAULT][/lib/general/staticPage.php][10/Oct/18 19:41:11]
+	[10/Oct/18 19:41:11][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:11][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:11][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:11][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:11][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:11][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:11][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:11][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2e204273422109335][DEFAULT][/lib/execute/execNavigator.php][10/Oct/18 19:41:22]
+	[10/Oct/18 19:41:22][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:22][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:22][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:22][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2e405dad342252019][DEFAULT][/lib/execute/execNavigator.php][10/Oct/18 19:41:24]
+	[10/Oct/18 19:41:24][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:24][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:24][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:24][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2e7c6886681450905][DEFAULT][/lib/execute/execSetResults.php][10/Oct/18 19:41:27]
+	[10/Oct/18 19:41:27][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:27][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:27][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:27][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2ed5ca0f522339581][DEFAULT][/lib/execute/getExecNotes.php][10/Oct/18 19:41:33]
+	[10/Oct/18 19:41:33][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:33][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:33][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:33][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca2f457f01853581714][DEFAULT][/lib/execute/getExecNotes.php][10/Oct/18 19:41:40]
+	[10/Oct/18 19:41:40][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:40][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:40][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:40][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca3007ce3b755651182][DEFAULT][/lib/general/frmWorkArea.php][10/Oct/18 19:41:52]
+	[10/Oct/18 19:41:52][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:52][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:52][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:52][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca30099de6927062731][DEFAULT][/lib/general/staticPage.php][10/Oct/18 19:41:52]
+[>>][4cbca3009a725078135150][DEFAULT][/lib/execute/execNavigator.php][10/Oct/18 19:41:52]
+	[10/Oct/18 19:41:52][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:52][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:52][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:52][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:52][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:52][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:52][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:52][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca303afac8001465940][DEFAULT][/lib/general/frmWorkArea.php][10/Oct/18 19:41:55]
+	[10/Oct/18 19:41:55][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:55][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:55][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:55][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca303cc9b7007744004][DEFAULT][/lib/general/staticPage.php][10/Oct/18 19:41:55]
+[>>][4cbca303cd203184610981][DEFAULT][/lib/results/resultsNavigator.php][10/Oct/18 19:41:55]
+	[10/Oct/18 19:41:55][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:55][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:55][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:55][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:55][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:55][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:55][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:55][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca30414dcb313519423][DEFAULT][/lib/general/staticPage.php][10/Oct/18 19:41:56]
+	[10/Oct/18 19:41:56][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:56][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:56][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:56][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca3069e52f174966712][DEFAULT][/lib/results/resultsMoreBuildsGUI.php][10/Oct/18 19:41:58]
+	[10/Oct/18 19:41:58][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:58][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:58][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:41:58][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca310bda00250061847][DEFAULT][/lib/results/resultsMoreBuilds.php][10/Oct/18 19:42:08]
+	[10/Oct/18 19:42:08][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:42:08][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:42:08][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:42:08][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca31d4409d895976304][DEFAULT][/index.php][10/Oct/18 19:42:21]
+	[10/Oct/18 19:42:21][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:42:21][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:42:21][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:42:21][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca31d57976625194256][DEFAULT][/lib/general/navBar.php][10/Oct/18 19:42:21]
+[>>][4cbca31d5ae56801388608][DEFAULT][/lib/general/mainPage.php][10/Oct/18 19:42:21]
+	[10/Oct/18 19:42:21][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:42:21][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:42:21][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:42:21][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:42:21][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:42:21][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:42:21][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:42:21][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca3952cbd6638870027][DEFAULT][/lib/events/eventviewer.php][10/Oct/18 19:44:21]
+	[10/Oct/18 19:44:21][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:44:21][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:44:21][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:44:21][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca54fc57e1062110692][DEFAULT][/lib/events/eventinfo.php][10/Oct/18 19:51:43]
+	[10/Oct/18 19:51:43][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:51:43][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:51:43][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:51:43][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca5554e104699093419][DEFAULT][/index.php][10/Oct/18 19:51:49]
+	[10/Oct/18 19:51:49][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:51:49][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:51:49][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:51:49][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca555650d5843483939][DEFAULT][/lib/general/navBar.php][10/Oct/18 19:51:49]
+[>>][4cbca55565978200180303][DEFAULT][/lib/general/mainPage.php][10/Oct/18 19:51:49]
+	[10/Oct/18 19:51:49][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:51:49][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:51:49][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:51:49][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:51:49][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:51:49][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:51:49][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:51:49][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca5705eee3037009511][DEFAULT][/lib/general/mainPage.php][10/Oct/18 19:52:16]
+	[10/Oct/18 19:52:16][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:16][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:16][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:16][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca574ab1f9229963078][DEFAULT][/lib/general/frmWorkArea.php][10/Oct/18 19:52:20]
+	[10/Oct/18 19:52:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca574c9b82397817559][DEFAULT][/lib/execute/execNavigator.php][10/Oct/18 19:52:20]
+[>>][4cbca574ca4ad321821083][DEFAULT][/lib/general/staticPage.php][10/Oct/18 19:52:20]
+	[10/Oct/18 19:52:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca57aed192370449740][DEFAULT][/index.php][10/Oct/18 19:52:26]
+	[10/Oct/18 19:52:26][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:26][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:26][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:26][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca57b0e567275315336][DEFAULT][/lib/general/navBar.php][10/Oct/18 19:52:27]
+[>>][4cbca57b0f012432882151][DEFAULT][/lib/general/mainPage.php][10/Oct/18 19:52:27]
+	[10/Oct/18 19:52:27][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:27][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:27][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:27][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:27][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:27][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:27][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:27][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca57d5899f827743145][DEFAULT][/lib/usermanagement/usersView.php][10/Oct/18 19:52:29]
+	[10/Oct/18 19:52:29][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:29][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:29][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:29][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca57fc700c022019440][DEFAULT][/lib/usermanagement/usersEdit.php][10/Oct/18 19:52:31]
+	[10/Oct/18 19:52:31][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:31][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:31][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:31][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca5821a52c566580348][DEFAULT][/lib/usermanagement/usersView.php][10/Oct/18 19:52:34]
+	[10/Oct/18 19:52:34][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:34][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:34][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:34][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca583af52c517622457][DEFAULT][/lib/usermanagement/usersEdit.php][10/Oct/18 19:52:35]
+	[10/Oct/18 19:52:35][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:35][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:35][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:35][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca58a2c1ad496351224][DEFAULT][/lib/usermanagement/usersView.php][10/Oct/18 19:52:42]
+	[10/Oct/18 19:52:42][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:42][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:42][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:42][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca591bf96c403902054][DEFAULT][/lib/usermanagement/usersView.php][10/Oct/18 19:52:49]
+	[10/Oct/18 19:52:49][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:49][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:49][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:52:49][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca59c04c38465033295][DEFAULT][/lib/general/frmWorkArea.php][10/Oct/18 19:53:00]
+	[10/Oct/18 19:53:00][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:00][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:00][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:00][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca59c1be0d290906712][DEFAULT][/lib/general/staticPage.php][10/Oct/18 19:53:00]
+[>>][4cbca59c1d19a203359144][DEFAULT][/lib/testcases/listTestCases.php][10/Oct/18 19:53:00]
+	[10/Oct/18 19:53:00][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:00][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:00][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:00][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:00][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:00][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:00][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:00][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca59ca1fad357330163][DEFAULT][/lib/ajax/gettprojectnodes.php][10/Oct/18 19:53:00]
+	[10/Oct/18 19:53:00][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:00][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:00][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:00][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca59cc1449282681326][DEFAULT][/lib/ajax/gettprojectnodes.php][10/Oct/18 19:53:00]
+	[10/Oct/18 19:53:00][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:00][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:00][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:00][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca59ce4c00591708150][DEFAULT][/lib/ajax/gettprojectnodes.php][10/Oct/18 19:53:00]
+	[10/Oct/18 19:53:00][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:00][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:00][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:00][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca5a2629fb032603935][DEFAULT][/lib/testcases/listTestCases.php][10/Oct/18 19:53:06]
+	[10/Oct/18 19:53:06][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:06][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:06][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:06][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca5b0d3cca735290515][DEFAULT][/index.php][10/Oct/18 19:53:20]
+	[10/Oct/18 19:53:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:20][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:20][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca5b0ec5f1554394667][DEFAULT][/lib/general/navBar.php][10/Oct/18 19:53:20]
+[>>][4cbca5b0ec131380679159][DEFAULT][/lib/general/mainPage.php][10/Oct/18 19:53:20]
+	[10/Oct/18 19:53:21][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:21][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:21][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:21][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:21][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:21][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:21][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:21][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca5b387b31581759529][DEFAULT][/lib/testcases/tcAssignedToUser.php][10/Oct/18 19:53:23]
+	[10/Oct/18 19:53:23][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:23][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:23][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:23][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca5bedb6af366154121][DEFAULT][/lib/execute/execSetResults.php][10/Oct/18 19:53:34]
+	[10/Oct/18 19:53:34][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:34][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:34][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:53:34][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'
+[>>][4cbca601933c0503448498][DEFAULT][/lib/plan/planView.php][10/Oct/18 19:54:41]
+	[10/Oct/18 19:54:41][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/18 19:54:41][WARNING][<nosession>][GUI]
+		string 'desc_project_inventory_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:54:41][WARNING][<nosession>][GUI]
+		string 'desc_platforms_view' is not localized for locale 'en_US'
+	[10/Oct/18 19:54:41][WARNING][<nosession>][GUI]
+		string 'desc_platforms_management' is not localized for locale 'en_US'

@@ -1,19 +1,24 @@
 Password: 
 Bad terminal type: "network". Will assume vt100.
-VPT1_6322>enable
+VIC_6312_1>enable
 Password: 
-VPT1_6322#terminal length 0
-VPT1_6322#show gpon ont summary
-ONT |Serial    |Admin|Active Time |Dist |Vendor|Model     |Version |S/W        
-  
-#   |#         |State|            |(m)  |      |          |        |Version    
-  
-----|----------|-----|------------|-----|------|----------|--------|-----------
---
-3.1 |12823671  |up   |6d,0h,15m   |2    |OCNW  |ON2442    |C4      |ONV6_2T49  
-  
-3.2 |5024078   |up   |6d,0h,15m   |1    |OCNW  |ON2443    |d4      |ONV6_2T49  
-  
+VIC_6312_1#terminal length 0
+VIC_6312_1#show version
+OccamOS System V6.2R3 for BLC 6312  [shelf:cab, slot:8]
+Kernel build id V6_2R3, made Mon Aug 30 10:00:22 PDT 2010
+Booter build id V6_2R2, made Fri Jul 2 10:54:10 PDT 2010
 
-VPT1_6322#no terminal length
-VPT1_6322#
+Processor:  440GP Rev. C  at 396 MHz, revision  4.129 (pvr 4012 0481)
+VCO: 792 MHz, PLB: 132 MHz, OPB: 66 MHz, EPB: 66 MHz, Sysclk: 33 MHz
+
+Board assembly number is 900118-02, revision  number is E1, type is 1
+Serial number is 04713313, MAC address is 00:02:86:00:99:b5
+Manufactured by OCCM on 4/12/2007
+
+PLD revision 1.0
+FPGA revision FPGA_0: 002.001
+
+Chassis BLC_6012
+Hostname VIC_6312_1, uptime is 34 days, 19:41, load average 0.31, 0.23, 0.13
+VIC_6312_1#no terminal length
+VIC_6312_1#

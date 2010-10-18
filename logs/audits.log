@@ -34,3 +34,13 @@
 		User 'admin' deleted all events
 	[10/Oct/9 08:54:21][AUDIT][udda8k8if3ff65qu98vr55roq0][GUI]
 		User 'admin' deleted all events
+	[10/Oct/18 19:27:00][AUDIT][ulrvkm5gvjs8i9rn0cqigvn061][GUI]
+		Test Project 'SQA' - Test Plan 'SQA_Initiatives' - Build 'RC1' was created
+	[10/Oct/18 19:27:34][AUDIT][ulrvkm5gvjs8i9rn0cqigvn061][GUI]
+		Test Case 'SQA-813 : Testcase Versioning' version 1 was added to Test Plan SQA_Initiatives
+	[10/Oct/18 19:39:20][AUDIT][ulrvkm5gvjs8i9rn0cqigvn061][GUI]
+		All user roles were unassigned from the Test Plan 'Dummy Testlplan 1'
+	[10/Oct/18 19:39:20][AUDIT][ulrvkm5gvjs8i9rn0cqigvn061][GUI]
+		Test Project 'SQA' - Test Plan 'Dummy Testlplan 1' was deleted
+	[10/Oct/18 19:39:28][AUDIT][ulrvkm5gvjs8i9rn0cqigvn061][GUI]
+		Test Project 'SQA' - Test Plan '7.0R3' was saved
