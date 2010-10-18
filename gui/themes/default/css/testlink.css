@@ -522,14 +522,14 @@ table.test_exec {
 
 
 /* ***** Execution & Results ********************************************************* */
-div.passed, div.failed, div.blocked, div.not_run {
+div.passed, div.failed, div.blocked, div.not_run, div.in_progress {
 	color: 			white;
 	margin: 		8px;
 	padding: 		6px;
 	text-align: 	center;
 }
 
-div.passed {
+div.passed{
 	background:		#006400; /* darkgreen */
 }
 
@@ -541,7 +541,7 @@ div.blocked {
 	background:		#00008B; /* darkblue */
 }
 div.in_progress {
-	background:             ##C0C000; /* dark yellow */
+	background:             #C0C000; /* dark yellow */
 }
 div.not_run {
 	background:		black;
@@ -549,7 +549,7 @@ div.not_run {
 
 
 /* ***** execution tree coloring ************************* */
-span.light_passed, span.light_failed, span.light_blocked,
+span.light_passed, span.light_failed, span.light_in_progress, span.light_blocked,
 span.light_not_run, span.light_not_available, span.light_unknown
 {
 	color:				black;
@@ -611,6 +611,11 @@ span.light_in_progress {
 	background:		#DAA520; /* goldenyellow */
 }
 
+.in_progress {
+	color:                  black;
+	background:             #DAA520; /* goldenyellow */
+}
+
 .unknown {
 	color: 			black;
 	background:		#00FFFF; /* cyan; */
@@ -640,6 +645,12 @@ span.light_in_progress {
 .not_available_text {
 	color:    black;
   font-weight: bold;
+}
+
+.in_progress_text {
+	color:     #DAA520;
+	font-weight: bold;
+
 }
 
 .unknown_text {
