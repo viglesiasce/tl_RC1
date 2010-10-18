@@ -1,6 +1,0 @@
-occam
-enable
-razor
-terminal length 0
-show version
-no terminal length
