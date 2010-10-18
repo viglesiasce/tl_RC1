@@ -124,7 +124,7 @@ $TLS_test_status_failed = "Failed";
 $TLS_test_status_passed = "Passed";
 $TLS_test_status_not_available = "Not Available";
 $TLS_test_status_unknown 	= "Unknown";
-
+$TLS_test_status_in_progress = "In Progress";
 $TLS_review_status_valid 	= "Valid";
 $TLS_review_status_draft 	= 'Draft';
 $TLS_review_status_future	= 'Future';
@@ -1387,7 +1387,7 @@ $TLS_req_title_blocked = "Blocked Requirements";
 $TLS_req_title_failed = "Failed Requirements";
 $TLS_req_title_not_run = "Unexecuted Requirements";
 $TLS_req_title_passed = "Passed Requirements";
-
+$TLS_req_title_in_progress = "In Progress Requirements";
 $TLS_title_result_req_testplan = "Test Results based on Requirements Specification";
 $TLS_title_test_plan = $TLS_testplan;
 
@@ -2001,7 +2001,7 @@ $TLS_title_metrics_x_build = "Overall Build Status";
 $TLS_list_of_blocked = "Blocked Test Cases";
 $TLS_list_of_failed = "Failed Test Cases";
 $TLS_list_of_not_run = "Not Run Test Cases";
-
+$TLS_list_of_in_progress = "In Progress Test Cases";
 // ----- lib/results/testPlanWithCF----
 $TLS_link_report_tplans_with_cf = "Test Plan with Custom Field info";
 $TLS_caption_testPlanWithCF = $TLS_link_report_tplans_with_cf;
@@ -2014,6 +2014,7 @@ $TLS_result_on_last_build = '[Last Build]';
 $TLS_link_charts = "Charts";
 $TLS_link_report_blocked_tcs = "Blocked Test Cases";
 $TLS_link_report_failed = "Failed Test Cases";
+$TLS_link_report_in_progress = "In Progress Test Cases";
 $TLS_link_report_general_tp_metrics = "General Test Plan Metrics";
 $TLS_link_report_metrics_active_build = "Metrics of Active Build";
 $TLS_link_report_metrics_more_builds = "Query Metrics";
