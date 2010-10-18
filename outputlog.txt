@@ -1,0 +1,6 @@
+occam
+enable
+razor
+terminal length 0
+show gpon ont summary
+no terminal length

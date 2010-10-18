@@ -1,0 +1,514 @@
+	[10/Oct/7 18:24:07][AUDIT][r5phtma1aovsinkgfo379s3h70][GUI]
+		Login for 'jnisenson' from '10.252.8.22' succeeded
+[<<][4cae1047e1cc9915795667][DEFAULT][/testlink_test/login.php][10/Oct/7 18:24:07][10/Oct/7 18:24:07][took 0.007699 secs]
+	[10/Oct/7 18:24:08][WARNING][<nosession>][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'en_US'
+[<<][4cae104829c5f247224912][DEFAULT][/testlink_test/index.php][10/Oct/7 18:24:08][10/Oct/7 18:24:08][took 0.081877 secs]
+[<<][4cae10487404d979932698][DEFAULT][/testlink_test/lib/general/navBar.php][10/Oct/7 18:24:08][10/Oct/7 18:24:08][took 0.088359 secs]
+[>>][4cae104889bb1098939328][DEFAULT][/testlink_test/lib/general/navBar.php][10/Oct/7 18:24:08]
+	[10/Oct/7 18:24:08][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:08][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'title_admin' is not localized for locale 'en_US'
+[<<][4cae104889bb1098939328][DEFAULT][/testlink_test/lib/general/navBar.php][10/Oct/7 18:24:08][10/Oct/7 18:24:08][took 0.022724 secs]
+[<<][4cae104871750308106177][DEFAULT][/testlink_test/lib/general/mainPage.php][10/Oct/7 18:24:08][10/Oct/7 18:24:08][took 0.137607 secs]
+[>>][4cae104893319108752015][DEFAULT][/testlink_test/lib/general/mainPage.php][10/Oct/7 18:24:08]
+	[10/Oct/7 18:24:08][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:08][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'current_test_plan' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:08][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_platform_assign' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:08][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_search_req' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:08][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_search_req_spec' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:08][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_inventory' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:08][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_platform_management' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:08][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:08][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_req_overview' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:08][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_print_req' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:08][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'title_documentation' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:08][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'current_test_plan' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:08][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_platform_assign' is not localized for locale 'en_US'
+[<<][4cae104893319108752015][DEFAULT][/testlink_test/lib/general/mainPage.php][10/Oct/7 18:24:08][10/Oct/7 18:24:08][took 0.036604 secs]
+	[10/Oct/7 18:24:24][WARNING][<nosession>][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'en_US'
+[<<][4cae10583b045389952008][DEFAULT][/testlink_test/index.php][10/Oct/7 18:24:24][10/Oct/7 18:24:24][took 0.081049 secs]
+[<<][4cae1058ac112096522771][DEFAULT][/testlink_test/lib/general/navBar.php][10/Oct/7 18:24:24][10/Oct/7 18:24:24][took 0.081933 secs]
+[>>][4cae1058c031f321779929][DEFAULT][/testlink_test/lib/general/navBar.php][10/Oct/7 18:24:24]
+	[10/Oct/7 18:24:24][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:24][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'title_admin' is not localized for locale 'en_US'
+[<<][4cae1058c031f321779929][DEFAULT][/testlink_test/lib/general/navBar.php][10/Oct/7 18:24:24][10/Oct/7 18:24:24][took 0.018878 secs]
+[<<][4cae1058ab724954081278][DEFAULT][/testlink_test/lib/general/mainPage.php][10/Oct/7 18:24:24][10/Oct/7 18:24:24][took 0.115474 secs]
+[>>][4cae1058c7c54472509157][DEFAULT][/testlink_test/lib/general/mainPage.php][10/Oct/7 18:24:24]
+	[10/Oct/7 18:24:24][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:24][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'current_test_plan' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:24][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_platform_assign' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:24][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_search_req' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:24][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_search_req_spec' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:24][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_inventory' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:24][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_platform_management' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:24][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:24][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_req_overview' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:24][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_print_req' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:24][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'title_documentation' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:24][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'current_test_plan' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:24][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_platform_assign' is not localized for locale 'en_US'
+[<<][4cae1058c7c54472509157][DEFAULT][/testlink_test/lib/general/mainPage.php][10/Oct/7 18:24:24][10/Oct/7 18:24:24][took 0.037886 secs]
+	[10/Oct/7 18:24:29][WARNING][<nosession>][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'en_US'
+[<<][4cae105d6a8de193987221][DEFAULT][/testlink_test/index.php][10/Oct/7 18:24:29][10/Oct/7 18:24:29][took 0.080675 secs]
+[<<][4cae105de5949313089850][DEFAULT][/testlink_test/lib/general/navBar.php][10/Oct/7 18:24:29][10/Oct/7 18:24:30][took 0.084055 secs]
+[>>][4cae105e06170920929324][DEFAULT][/testlink_test/lib/general/navBar.php][10/Oct/7 18:24:30]
+	[10/Oct/7 18:24:30][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:30][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'title_admin' is not localized for locale 'en_US'
+[<<][4cae105e06170920929324][DEFAULT][/testlink_test/lib/general/navBar.php][10/Oct/7 18:24:30][10/Oct/7 18:24:30][took 0.020019 secs]
+[<<][4cae105de60d8812944533][DEFAULT][/testlink_test/lib/general/mainPage.php][10/Oct/7 18:24:29][10/Oct/7 18:24:30][took 0.111646 secs]
+[>>][4cae105e0d4c0501507320][DEFAULT][/testlink_test/lib/general/mainPage.php][10/Oct/7 18:24:30]
+	[10/Oct/7 18:24:30][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:30][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'current_test_plan' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:30][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_platform_assign' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:30][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_search_req' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:30][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_search_req_spec' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:30][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_inventory' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:30][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_platform_management' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:30][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:30][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_req_overview' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:30][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_print_req' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:30][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'title_documentation' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:30][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'current_test_plan' is not localized for locale 'en_US'
+	[10/Oct/7 18:24:30][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_platform_assign' is not localized for locale 'en_US'
+[<<][4cae105e0d4c0501507320][DEFAULT][/testlink_test/lib/general/mainPage.php][10/Oct/7 18:24:30][10/Oct/7 18:24:30][took 0.037494 secs]
+[<<][4cae10753bf97139204719][DEFAULT][/testlink_test/logout.php][10/Oct/7 18:24:53][10/Oct/7 18:24:53][took 0.08245 secs]
+[>>][4cae1075503b9319421057][DEFAULT][/testlink_test/logout.php][10/Oct/7 18:24:53]
+	[10/Oct/7 18:24:53][AUDIT][r5phtma1aovsinkgfo379s3h70][GUI]
+		Logout of 'Josh Nisenson'
+	[10/Oct/7 18:25:03][AUDIT][r5phtma1aovsinkgfo379s3h70][GUI]
+		Login for 'jnisenson' from '10.252.8.22' succeeded
+[<<][4cae107f82020906807841][DEFAULT][/testlink_test/login.php][10/Oct/7 18:25:03][10/Oct/7 18:25:03][took 0.007027 secs]
+	[10/Oct/7 18:25:04][WARNING][<nosession>][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'en_US'
+[<<][4cae107fe223e808714625][DEFAULT][/testlink_test/index.php][10/Oct/7 18:25:03][10/Oct/7 18:25:04][took 0.087431 secs]
+[<<][4cae10805997b080639276][DEFAULT][/testlink_test/lib/general/navBar.php][10/Oct/7 18:25:04][10/Oct/7 18:25:04][took 0.082001 secs]
+[>>][4cae10806dbb2610759721][DEFAULT][/testlink_test/lib/general/navBar.php][10/Oct/7 18:25:04]
+	[10/Oct/7 18:25:04][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:04][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'title_admin' is not localized for locale 'en_US'
+[<<][4cae10806dbb2610759721][DEFAULT][/testlink_test/lib/general/navBar.php][10/Oct/7 18:25:04][10/Oct/7 18:25:04][took 0.020848 secs]
+[<<][4cae108059497313099281][DEFAULT][/testlink_test/lib/general/mainPage.php][10/Oct/7 18:25:04][10/Oct/7 18:25:04][took 0.119017 secs]
+[>>][4cae1080767de612224313][DEFAULT][/testlink_test/lib/general/mainPage.php][10/Oct/7 18:25:04]
+	[10/Oct/7 18:25:04][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:04][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'current_test_plan' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:04][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_platform_assign' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:04][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_search_req' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:04][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_search_req_spec' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:04][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_inventory' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:04][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_platform_management' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:04][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_inventory_management' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:04][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_req_overview' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:04][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_print_req' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:04][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'title_documentation' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:04][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'current_test_plan' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:04][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'href_platform_assign' is not localized for locale 'en_US'
+[<<][4cae1080767de612224313][DEFAULT][/testlink_test/lib/general/mainPage.php][10/Oct/7 18:25:04][10/Oct/7 18:25:04][took 0.035925 secs]
+[<<][4cae109c2336d200325034][DEFAULT][/testlink_test/lib/general/frmWorkArea.php][10/Oct/7 18:25:32][10/Oct/7 18:25:32][took 0.080568 secs]
+[>>][4cae109c3701e547377332][DEFAULT][/testlink_test/lib/general/frmWorkArea.php][10/Oct/7 18:25:32]
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'en_US'
+[<<][4cae109c3701e547377332][DEFAULT][/testlink_test/lib/general/frmWorkArea.php][10/Oct/7 18:25:32][10/Oct/7 18:25:32][took 0.046947 secs]
+[<<][4cae109c7d55d744313035][DEFAULT][/testlink_test/lib/execute/execNavigator.php][10/Oct/7 18:25:32][10/Oct/7 18:25:32][took 0.098209 secs]
+[>>][4cae109c9579b268358350][DEFAULT][/testlink_test/lib/execute/execNavigator.php][10/Oct/7 18:25:32]
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_somebody' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'exec_build' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'logical_or' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'logical_and' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'btn_hide_cf' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		E_NOTICE
+Undefined index:  all - in /var/www/html/testlink_test/lib/functions/tlTestCaseFilterControl.class.php - Line 1462
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		E_NOTICE
+Undefined index:  all - in /var/www/html/testlink_test/lib/functions/exec.inc.php - Line 52
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_result_latest_execution' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_result_all_builds' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_result_any_build' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_result_specific_build' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_result_current_build' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		E_NOTICE
+Undefined index:  all - in /var/www/html/testlink_test/lib/functions/treeMenu.inc.php - Line 965
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_on' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'platform' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'exec_build' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'caption_nav_filters' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'caption_nav_settings' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'caption_nav_settings' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'caption_nav_filters' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'platform' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_on' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'caption_nav_filters' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'platform' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'btn_remove_all_tester_assignments' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'btn_reset_filters' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'btn_bulk_update_to_latest_version' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'document_id' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'req_expected_coverage' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'req_type' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'req_spec_type' is not localized for locale 'en_US'
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'has_relation_type' is not localized for locale 'en_US'
+[<<][4cae109c9579b268358350][DEFAULT][/testlink_test/lib/execute/execNavigator.php][10/Oct/7 18:25:32][10/Oct/7 18:25:32][took 0.212481 secs]
+[<<][4cae109c80c51773544300][DEFAULT][/testlink_test/lib/general/staticPage.php][10/Oct/7 18:25:32][10/Oct/7 18:25:32][took 0.325659 secs]
+[>>][4cae109cd06ce397696770][DEFAULT][/testlink_test/lib/general/staticPage.php][10/Oct/7 18:25:32]
+	[10/Oct/7 18:25:32][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'en_US'
+[<<][4cae109cd06ce397696770][DEFAULT][/testlink_test/lib/general/staticPage.php][10/Oct/7 18:25:32][10/Oct/7 18:25:32][took 0.008551 secs]
+	[10/Oct/7 18:27:58][WARNING][<nosession>][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'en_US'
+[<<][4cae112ecb4e6590137099][DEFAULT][/testlink_test/index.php][10/Oct/7 18:27:58][10/Oct/7 18:27:58][took 0.080302 secs]
+[<<][4cae112f50451912082966][DEFAULT][/testlink_test/lib/general/navBar.php][10/Oct/7 18:27:59][10/Oct/7 18:27:59][took 0.08262 secs]
+[>>][4cae112f649a0056734488][DEFAULT][/testlink_test/lib/general/navBar.php][10/Oct/7 18:27:59]
+	[10/Oct/7 18:27:59][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'en_US'
+	[10/Oct/7 18:27:59][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'title_admin' is not localized for locale 'en_US'
+[<<][4cae112f649a0056734488][DEFAULT][/testlink_test/lib/general/navBar.php][10/Oct/7 18:27:59][10/Oct/7 18:27:59][took 0.02069 secs]
+[<<][4cae112f50e41797857595][DEFAULT][/testlink_test/lib/general/frmWorkArea.php][10/Oct/7 18:27:59][10/Oct/7 18:27:59][took 0.115129 secs]
+[>>][4cae112f6d1e9256440396][DEFAULT][/testlink_test/lib/general/frmWorkArea.php][10/Oct/7 18:27:59]
+	[10/Oct/7 18:27:59][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'en_US'
+[<<][4cae112f6d1e9256440396][DEFAULT][/testlink_test/lib/general/frmWorkArea.php][10/Oct/7 18:27:59][10/Oct/7 18:27:59][took 0.044495 secs]
+[<<][4cae112fd7534587428291][DEFAULT][/testlink_test/lib/general/staticPage.php][10/Oct/7 18:27:59][10/Oct/7 18:28:00][took 0.13119 secs]
+[>>][4cae11300357a696863441][DEFAULT][/testlink_test/lib/general/staticPage.php][10/Oct/7 18:28:00]
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'en_US'
+[<<][4cae11300357a696863441][DEFAULT][/testlink_test/lib/general/staticPage.php][10/Oct/7 18:28:00][10/Oct/7 18:28:00][took 0.009032 secs]
+[<<][4cae112fd876f835986793][DEFAULT][/testlink_test/lib/execute/execNavigator.php][10/Oct/7 18:27:59][10/Oct/7 18:28:00][took 0.159197 secs]
+[>>][4cae11300b537941339721][DEFAULT][/testlink_test/lib/execute/execNavigator.php][10/Oct/7 18:28:00]
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_somebody' is not localized for locale 'en_US'
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'exec_build' is not localized for locale 'en_US'
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'logical_or' is not localized for locale 'en_US'
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'logical_and' is not localized for locale 'en_US'
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'btn_hide_cf' is not localized for locale 'en_US'
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		E_NOTICE
+Undefined index:  all - in /var/www/html/testlink_test/lib/functions/tlTestCaseFilterControl.class.php - Line 1462
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		E_NOTICE
+Undefined index:  all - in /var/www/html/testlink_test/lib/functions/exec.inc.php - Line 52
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_result_latest_execution' is not localized for locale 'en_US'
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_result_all_builds' is not localized for locale 'en_US'
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_result_any_build' is not localized for locale 'en_US'
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_result_specific_build' is not localized for locale 'en_US'
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_result_current_build' is not localized for locale 'en_US'
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		E_NOTICE
+Undefined index:  all - in /var/www/html/testlink_test/lib/functions/treeMenu.inc.php - Line 965
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'en_US'
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_on' is not localized for locale 'en_US'
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'platform' is not localized for locale 'en_US'
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'exec_build' is not localized for locale 'en_US'
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'caption_nav_filters' is not localized for locale 'en_US'
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'caption_nav_settings' is not localized for locale 'en_US'
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'caption_nav_settings' is not localized for locale 'en_US'
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'caption_nav_filters' is not localized for locale 'en_US'
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'platform' is not localized for locale 'en_US'
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_on' is not localized for locale 'en_US'
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'caption_nav_filters' is not localized for locale 'en_US'
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'platform' is not localized for locale 'en_US'
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'btn_remove_all_tester_assignments' is not localized for locale 'en_US'
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'btn_reset_filters' is not localized for locale 'en_US'
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'btn_bulk_update_to_latest_version' is not localized for locale 'en_US'
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'document_id' is not localized for locale 'en_US'
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'req_expected_coverage' is not localized for locale 'en_US'
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'req_type' is not localized for locale 'en_US'
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'req_spec_type' is not localized for locale 'en_US'
+	[10/Oct/7 18:28:00][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'has_relation_type' is not localized for locale 'en_US'
+[<<][4cae11300b537941339721][DEFAULT][/testlink_test/lib/execute/execNavigator.php][10/Oct/7 18:28:00][10/Oct/7 18:28:00][took 0.217054 secs]
+	[10/Oct/7 18:30:51][WARNING][<nosession>][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'en_US'
+[<<][4cae11db65bbc244884066][DEFAULT][/testlink_test/index.php][10/Oct/7 18:30:51][10/Oct/7 18:30:51][took 0.081938 secs]
+[<<][4cae11dbe8351020383507][DEFAULT][/testlink_test/lib/general/frmWorkArea.php][10/Oct/7 18:30:51][10/Oct/7 18:30:52][took 0.08173 secs]
+[>>][4cae11dc08235496217796][DEFAULT][/testlink_test/lib/general/frmWorkArea.php][10/Oct/7 18:30:52]
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'en_US'
+[<<][4cae11dc08235496217796][DEFAULT][/testlink_test/lib/general/frmWorkArea.php][10/Oct/7 18:30:52][10/Oct/7 18:30:52][took 0.042164 secs]
+[<<][4cae11dbe7925395541130][DEFAULT][/testlink_test/lib/general/navBar.php][10/Oct/7 18:30:51][10/Oct/7 18:30:52][took 0.139423 secs]
+[>>][4cae11dc1599e871821933][DEFAULT][/testlink_test/lib/general/navBar.php][10/Oct/7 18:30:52]
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'title_admin' is not localized for locale 'en_US'
+[<<][4cae11dc1599e871821933][DEFAULT][/testlink_test/lib/general/navBar.php][10/Oct/7 18:30:52][10/Oct/7 18:30:52][took 0.018575 secs]
+[<<][4cae11dc4b796699666563][DEFAULT][/testlink_test/lib/execute/execNavigator.php][10/Oct/7 18:30:52][10/Oct/7 18:30:52][took 0.090977 secs]
+[>>][4cae11dc61d15203011942][DEFAULT][/testlink_test/lib/execute/execNavigator.php][10/Oct/7 18:30:52]
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_somebody' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'exec_build' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'logical_or' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'logical_and' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'btn_hide_cf' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		E_NOTICE
+Undefined index:  all - in /var/www/html/testlink_test/lib/functions/tlTestCaseFilterControl.class.php - Line 1462
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		E_NOTICE
+Undefined index:  all - in /var/www/html/testlink_test/lib/functions/exec.inc.php - Line 52
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_result_latest_execution' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_result_all_builds' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_result_any_build' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_result_specific_build' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_result_current_build' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		E_NOTICE
+Undefined index:  all - in /var/www/html/testlink_test/lib/functions/treeMenu.inc.php - Line 965
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_on' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'platform' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'exec_build' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'caption_nav_filters' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'caption_nav_settings' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'caption_nav_settings' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'caption_nav_filters' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'platform' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_on' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'caption_nav_filters' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'platform' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'btn_remove_all_tester_assignments' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'btn_reset_filters' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'btn_bulk_update_to_latest_version' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'document_id' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'req_expected_coverage' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'req_type' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'req_spec_type' is not localized for locale 'en_US'
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'has_relation_type' is not localized for locale 'en_US'
+[<<][4cae11dc61d15203011942][DEFAULT][/testlink_test/lib/execute/execNavigator.php][10/Oct/7 18:30:52][10/Oct/7 18:30:52][took 0.208035 secs]
+[<<][4cae11dc4d6cf054038346][DEFAULT][/testlink_test/lib/general/staticPage.php][10/Oct/7 18:30:52][10/Oct/7 18:30:52][took 0.316955 secs]
+[>>][4cae11dc9af0b391596043][DEFAULT][/testlink_test/lib/general/staticPage.php][10/Oct/7 18:30:52]
+	[10/Oct/7 18:30:52][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'en_US'
+[<<][4cae11dc9af0b391596043][DEFAULT][/testlink_test/lib/general/staticPage.php][10/Oct/7 18:30:52][10/Oct/7 18:30:52][took 0.00848 secs]
+[<<][4cae11e9d6ebe428168525][DEFAULT][/testlink_test/lib/general/frmWorkArea.php][10/Oct/7 18:31:05][10/Oct/7 18:31:05][took 0.085297 secs]
+[>>][4cae11e9ebe06616482651][DEFAULT][/testlink_test/lib/general/frmWorkArea.php][10/Oct/7 18:31:05]
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'en_US'
+[<<][4cae11e9ebe06616482651][DEFAULT][/testlink_test/lib/general/frmWorkArea.php][10/Oct/7 18:31:05][10/Oct/7 18:31:06][took 0.04348 secs]
+[<<][4cae11ea3a304002471795][DEFAULT][/testlink_test/lib/execute/execNavigator.php][10/Oct/7 18:31:06][10/Oct/7 18:31:06][took 0.083142 secs]
+[>>][4cae11ea4e9d3839879490][DEFAULT][/testlink_test/lib/execute/execNavigator.php][10/Oct/7 18:31:06]
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_somebody' is not localized for locale 'en_US'
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'exec_build' is not localized for locale 'en_US'
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'logical_or' is not localized for locale 'en_US'
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'logical_and' is not localized for locale 'en_US'
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'btn_hide_cf' is not localized for locale 'en_US'
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		E_NOTICE
+Undefined index:  all - in /var/www/html/testlink_test/lib/functions/tlTestCaseFilterControl.class.php - Line 1462
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		E_NOTICE
+Undefined index:  all - in /var/www/html/testlink_test/lib/functions/exec.inc.php - Line 52
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_result_latest_execution' is not localized for locale 'en_US'
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_result_all_builds' is not localized for locale 'en_US'
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_result_any_build' is not localized for locale 'en_US'
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_result_specific_build' is not localized for locale 'en_US'
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_result_current_build' is not localized for locale 'en_US'
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		E_NOTICE
+Undefined index:  all - in /var/www/html/testlink_test/lib/functions/treeMenu.inc.php - Line 965
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'en_US'
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_on' is not localized for locale 'en_US'
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'platform' is not localized for locale 'en_US'
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'exec_build' is not localized for locale 'en_US'
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'caption_nav_filters' is not localized for locale 'en_US'
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'caption_nav_settings' is not localized for locale 'en_US'
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'caption_nav_settings' is not localized for locale 'en_US'
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'caption_nav_filters' is not localized for locale 'en_US'
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'platform' is not localized for locale 'en_US'
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'filter_on' is not localized for locale 'en_US'
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'caption_nav_filters' is not localized for locale 'en_US'
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'platform' is not localized for locale 'en_US'
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'btn_remove_all_tester_assignments' is not localized for locale 'en_US'
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'btn_reset_filters' is not localized for locale 'en_US'
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'btn_bulk_update_to_latest_version' is not localized for locale 'en_US'
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'document_id' is not localized for locale 'en_US'
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'req_expected_coverage' is not localized for locale 'en_US'
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'req_type' is not localized for locale 'en_US'
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'req_spec_type' is not localized for locale 'en_US'
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'has_relation_type' is not localized for locale 'en_US'
+[<<][4cae11ea4e9d3839879490][DEFAULT][/testlink_test/lib/execute/execNavigator.php][10/Oct/7 18:31:06][10/Oct/7 18:31:06][took 0.212995 secs]
+[<<][4cae11ea3a7f7747061694][DEFAULT][/testlink_test/lib/general/staticPage.php][10/Oct/7 18:31:06][10/Oct/7 18:31:06][took 0.314171 secs]
+[>>][4cae11ea8756d804992690][DEFAULT][/testlink_test/lib/general/staticPage.php][10/Oct/7 18:31:06]
+	[10/Oct/7 18:31:06][WARNING][r5phtma1aovsinkgfo379s3h70][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'en_US'
+[<<][4cae11ea8756d804992690][DEFAULT][/testlink_test/lib/general/staticPage.php][10/Oct/7 18:31:06][10/Oct/7 18:31:06][took 0.009811 secs]

@@ -1,0 +1,36 @@
+	[10/Oct/9 08:24:01][AUDIT][udda8k8if3ff65qu98vr55roq0][GUI]
+		User 'admin' deleted all events
+	[10/Oct/9 08:25:56][AUDIT][udda8k8if3ff65qu98vr55roq0][GUI]
+		Test Project 'AAAA' was created
+	[10/Oct/9 08:27:47][AUDIT][udda8k8if3ff65qu98vr55roq0][GUI]
+		Test Project 'AAAA' - Test Plan 'PLA' was created
+	[10/Oct/9 08:28:09][AUDIT][udda8k8if3ff65qu98vr55roq0][GUI]
+		Test Project 'AAAA' - Test Plan 'PLA' - Build 'N1' was created
+	[10/Oct/9 08:28:29][AUDIT][udda8k8if3ff65qu98vr55roq0][GUI]
+		Test Case 'AAAA-1 : set exec result - test plan WITHOUT PLATFORMS' version 1 was added to Test Plan PLA
+	[10/Oct/9 08:28:29][AUDIT][udda8k8if3ff65qu98vr55roq0][GUI]
+		Test Case 'AAAA-2 : set exec result - test plan WITH WRONG PLATFORM NAME' version 1 was added to Test Plan PLA
+	[10/Oct/9 08:28:29][AUDIT][udda8k8if3ff65qu98vr55roq0][GUI]
+		Test Case 'AAAA-3 : set exec result - test plan WITH WRONG PLATFORM ID' version 1 was added to Test Plan PLA
+	[10/Oct/9 08:34:08][AUDIT][udda8k8if3ff65qu98vr55roq0][GUI]
+		User 'admin' deleted all events
+	[10/Oct/9 08:34:28][AUDIT][udda8k8if3ff65qu98vr55roq0][GUI]
+		Test Case 'AAAA-4 : Create Build - "easy" - NO RELEASE DATE' version 1 was added to Test Plan PLA
+	[10/Oct/9 08:34:28][AUDIT][udda8k8if3ff65qu98vr55roq0][GUI]
+		Test Case 'AAAA-5 : Create Build - "easy" - WITH RELEASE DATE' version 1 was added to Test Plan PLA
+	[10/Oct/9 08:36:19][AUDIT][udda8k8if3ff65qu98vr55roq0][GUI]
+		User 'admin' deleted all events
+	[10/Oct/9 08:37:43][AUDIT][udda8k8if3ff65qu98vr55roq0][GUI]
+		User 'admin' deleted all events
+	[10/Oct/9 08:40:19][AUDIT][udda8k8if3ff65qu98vr55roq0][GUI]
+		User 'admin' deleted all events
+	[10/Oct/9 08:45:05][AUDIT][udda8k8if3ff65qu98vr55roq0][GUI]
+		User 'admin' deleted all events
+	[10/Oct/9 08:48:03][AUDIT][udda8k8if3ff65qu98vr55roq0][GUI]
+		Test Case 'AAAA-8 : Test Project name in NAVBAR' version 1 was added to Test Plan PLA
+	[10/Oct/9 08:48:03][AUDIT][udda8k8if3ff65qu98vr55roq0][GUI]
+		Test Case 'AAAA-9 : Test Plan name' version 1 was added to Test Plan PLA
+	[10/Oct/9 08:49:39][AUDIT][udda8k8if3ff65qu98vr55roq0][GUI]
+		User 'admin' deleted all events
+	[10/Oct/9 08:54:21][AUDIT][udda8k8if3ff65qu98vr55roq0][GUI]
+		User 'admin' deleted all events

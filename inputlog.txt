@@ -1,0 +1,19 @@
+Password: 
+Bad terminal type: "network". Will assume vt100.
+VPT1_6322>enable
+Password: 
+VPT1_6322#terminal length 0
+VPT1_6322#show gpon ont summary
+ONT |Serial    |Admin|Active Time |Dist |Vendor|Model     |Version |S/W        
+  
+#   |#         |State|            |(m)  |      |          |        |Version    
+  
+----|----------|-----|------------|-----|------|----------|--------|-----------
+--
+3.1 |12823671  |up   |6d,0h,15m   |2    |OCNW  |ON2442    |C4      |ONV6_2T49  
+  
+3.2 |5024078   |up   |6d,0h,15m   |1    |OCNW  |ON2443    |d4      |ONV6_2T49  
+  
+
+VPT1_6322#no terminal length
+VPT1_6322#
