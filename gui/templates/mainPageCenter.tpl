@@ -65,7 +65,7 @@ Ext.ux.IFrameComponent = Ext.extend(Ext.BoxComponent, {
 	//autoHeight: true,
 	//plain:true,
 	defaults:{autoScroll: true},
-        items:[wiki, testcases]
+        items:[ testcases, wiki]
     });
 
 {/literal}
