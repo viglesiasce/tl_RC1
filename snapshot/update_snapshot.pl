@@ -25,7 +25,7 @@ exit;
 sub get_bug_data{
         my $filename = shift;
         my %products;
-        open( PRODUCTS, "<$filename") or die;
+        open( PRODUCTS, "<active_products.cfg") or die;
         
         my(@lines) = <PRODUCTS>; 
 

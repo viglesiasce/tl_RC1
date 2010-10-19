@@ -554,7 +554,7 @@ $tlCfg->reportsCfg->start_time = '00:00';
 $tlCfg->resultMatrixReport->buildColumns['showStatusLastExecuted'] = true;
 
 // Show build columns in revers order. The latest build is to the left
-$tlCfg->resultMatrixReport->buildColumns['latestBuildOnLeft'] = false;
+$tlCfg->resultMatrixReport->buildColumns['latestBuildOnLeft'] = TRUE;
 
 
 // ----------------------------------------------------------------------------
@@ -598,7 +598,7 @@ $tlCfg->exec_cfg->history_order = 'DESC';
 
 // TRUE  -> the whole execution history for the choosen build will be showed
 // FALSE -> just last execution for the choosen build will be showed [STANDARD BEHAVIOUR]
-$tlCfg->exec_cfg->history_on = FALSE;
+$tlCfg->exec_cfg->history_on = TRUE;
 
 // TRUE  ->  test case VERY LAST (i.e. in any build) execution status will be displayed [STANDARD BEHAVIOUR]
 // FALSE -> only last result on current build.
@@ -857,7 +857,7 @@ $g_repositoryCompressionType = TL_REPOSITORY_COMPRESSIONTYPE_NONE;
 
 // the maximum allowed file size for each repository entry, default 1MB.
 // Also check your PHP settings (default is usually 2MBs)
-$tlCfg->repository_max_filesize = 1; //MB
+$tlCfg->repository_max_filesize = 2; //MB
 
 // TRUE -> when you upload a file you can give no title
 $g_attachments->allow_empty_title = FALSE;
