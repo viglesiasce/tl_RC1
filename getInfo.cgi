@@ -55,7 +55,7 @@ sub get_blade_info(){
   
 	$result_string =~ s/\001/ /g; 
 	$result_string =~ s/\020/ /g;
-	
+        $result_string =~ s/\021/ /g;	
 	
 	$hash_return{'result'} = $result_string;
 	if ($ok and $result_string ){
