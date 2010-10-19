@@ -13,11 +13,7 @@ INITIALIZATION PHASE<br>
 
 
 TESTING PHASE<br>
-1.	<br>
-2.	<br>
-3.	<br>
-4.	<br><br>
-
+<br>
 CLOSING PHASE<br>
 1.	Tear down connections for test tools and stop the running traffic or calls.<br>
 2.	Record statistics from the test run.<br>
