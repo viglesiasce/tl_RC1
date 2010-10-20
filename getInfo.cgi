@@ -37,7 +37,7 @@ sub get_blade_info(){
 	my $hostname = shift;
         my %hash_return;
 
-	my $telnet = new Net::Telnet ( Timeout=>10 , Errmode => "return",Prompt => '/\> $/i', Input_log => 'inputlog.txt', Output_log => 'outputlog.txt');
+	my $telnet = new Net::Telnet ( Timeout=>10 , Errmode => "return",Prompt => '/\> $/i');
         my $ok = $telnet->open($hostname);
         $telnet->waitfor('/:/i');
         $telnet->print('occam');
