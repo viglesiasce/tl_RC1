@@ -223,7 +223,7 @@ function loadData(URL, $ip_val, $tc_id, $command)
 	    alert_message("Success", 'Data collection for ' + $ip_val + " complete.");
 	    }
 	    else{
-		alert_message("Failure", 'Data collection for ' + $ip_val + " failed.");
+		alert_message("Failure", 'Data collection for ' + $ip_val + " failed.\nPlease check command and IP syntax.");
 	    }
 	     break;
         default:
@@ -239,7 +239,15 @@ function loadData(URL, $ip_val, $tc_id, $command)
 
 function checkCollectForStatus($ip_val, $tc_id, $command)
 {
-	
+	Ext.MessageBox.show({
+		title: 'Please wait',
+		msg: 'Loading target Information',
+		progressText: 'Retrieving info...',
+		width:300,
+		progress:true,
+		closable:false
+	}); 
+		
 	loadData('getInfo.cgi', $ip_val, $tc_id, $command);
 	
 		
