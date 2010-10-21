@@ -660,19 +660,19 @@ $tlCfg->exec_cfg->simple_tester_roles=array(TL_ROLES_TESTER);
 // all: all test cases.
 // assigned_to_me: test cases assigned to logged user.
 // assigned_to_me_or_free: test cases assigned to logged user or not assigned
-$tlCfg->exec_cfg->view_mode->tester='assigned_to_me';
+$tlCfg->exec_cfg->view_mode->tester='all';
 
 // Filter Test cases a user with tester role can EXECUTE depending on
 // test execution assignment.
 // all: all test cases.
 // assigned_to_me: test cases assigned to logged user.
 // assigned_to_me_or_free: test cases assigned to logged user or not assigned
-$tlCfg->exec_cfg->exec_mode->tester='assigned_to_me';
+$tlCfg->exec_cfg->exec_mode->tester='all';
 
 /** User filter in Test Execution navigator - default value */
 // logged_user -> combo will be set to logged user
 // none        -> no filter applied by default
-$tlCfg->exec_cfg->user_filter_default='none';
+$tlCfg->exec_cfg->user_filter_default='logged_user';
 
 
 // 'horizontal' ->  step and results on the same row

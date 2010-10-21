@@ -1315,8 +1315,8 @@ class tlTestCaseFilterControl extends tlFilterControl {
 			
 			if (isset($simple_tester_roles[$role->dbID]) || ($right_to_execute && !$right_to_manage)) {
 				// user is only simple tester and may not see/execute everything
-				// $simple = true;// THIS MEANS NOT ALL TESTERS CAN SEE AND EXEC EVERYTHING
-				$simple= false; // NOBODY IS SIMPLE TESTER
+				 $simple = true;// THIS MEANS NOT ALL TESTERS CAN SEE AND EXEC EVERYTHING
+				//$simple= false; // NOBODY IS SIMPLE TESTER
 			}
 
 			$view_mode = $simple ? $this->configuration->exec_cfg->view_mode->tester : 'all';

@@ -411,14 +411,14 @@ Rev:
              args_tcAttachments=$gui->tcAttachments
 	           args_req_details=$gui->req_details
 	           args_cfg=$cfg}
-    {* TC CAN ALWAYS BE EXECUTED if $tc_exec.can_be_executed *}
+    {if $tc_exec.can_be_executed}
       {include file="execute/inc_exec_controls.tpl"
                args_save_type='single'
                args_input_enable_mgmt=$input_enabled_disabled
                args_tcversion_id=$tcversion_id
                args_webeditor=$gui->exec_notes_editors[$tc_id]
                args_labels=$labels}
-	  {* END IF TESTCASE CAN BE EXECTUED /if}
+	  {/if}
  	  {if $tc_exec.active eq 0}
  	   <h1 class="title"><center>{$labels.testcase_version_is_inactive_on_exec}</center></h1>
  	  {/if}
