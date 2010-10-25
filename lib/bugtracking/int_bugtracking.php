@@ -212,7 +212,22 @@ class bugtrackingInterface
 	{
 		return false;
 	}
-
+	 /**     
+         * overload this to return the status of the bug with the given id
+         * this function is not directly called by TestLink.
+         *       
+         * @param int id the bug id
+         *       
+         * @return any returns the status of the given bug, or false if the bug 
+         *                      was not found
+         * @version 1.0
+         * @author Andreas Morsing 
+         * @since 22.04.2005, 21:05:25
+         **/     
+        function getBugStatusID($id)
+        {       
+                return false;
+        }     
 	/**
 	 * overload this to return the status in a readable form for the bug with the given id
 	 * This function is not directly called by TestLink
@@ -230,7 +245,6 @@ class bugtrackingInterface
 	{
 		return false;
 	}
-
 
 	/*
 	*
@@ -340,6 +354,34 @@ class bugtrackingInterface
 
 		return $link;
 	}
+	
+	function buildSimpleBugLink($bugID,$bWithSummary = false)
+        {       
+		$summary = $this->getBugSummaryString($bugID);
+		$severity = $this->getBugSeverity($bugID);
+		$state = $this->getBugStatus($bugID);
+                        if (!is_null($summary))
+                        {
+                                $summary = iconv($this->dbCharSet,$this->tlCharSet,$summary);
+                                $link .= " : " . $summary;
+
+                        }
+                $link = "<a title='". $state  . " - ". $severity . " - " . $summary   . "' href='" .$this->buildViewBugURL($bugID) . "' target='_blank'>";
+                $status = $this->getBugStatusID($bugID);
+		
+                if (!is_null($status))
+                {       
+                        $status = iconv($this->dbCharSet,$this->tlCharSet,$status);
+                        $link .= $status;
+                }       
+                else    
+                        $link .= $bugID; 
+                
+                $link .= "</a>"; 
+
+                return $link;
+        }
+
 
 	/**
 	* checks if bug id is present on BTS

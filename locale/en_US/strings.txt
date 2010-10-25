@@ -941,7 +941,7 @@ $TLS_edit_notes = "edit notes";
 $TLS_execute_and_save_results ="Execute and Save Results";
 $TLS_exec_any_build = "(any build)";
 $TLS_exec_current_build = "(current build)";
-$TLS_exec_notes = "Notes";
+$TLS_exec_notes = "Results";
 $TLS_exec_status = $TLS_status;
 $TLS_execution_history = "Execution history";
 $TLS_execution_type_manual = "Manual";
@@ -964,7 +964,7 @@ $TLS_testcase_version_is_inactive_on_exec = "This version is inactive => Can not
 $TLS_test_exec_by = "Tested by";
 $TLS_test_exec_expected_r = "Expected Results";
 $TLS_test_exec_last_run_date = "Most recent Run";
-$TLS_test_exec_notes = "Notes / Description";
+$TLS_test_exec_notes = "Insert Results Here";
 $TLS_test_exec_on_build = "on Build";
 $TLS_test_exec_result = "Result";
 $TLS_test_exec_steps = "Steps";

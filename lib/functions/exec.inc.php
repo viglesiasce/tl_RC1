@@ -194,7 +194,7 @@ function write_execution_bug(&$db,$exec_id, $bug_id,$just_delete=false)
  * 
  * @return array list of 'bug_id' with values: 'build_name' and 'link_to_bts'
  */
-function get_bugs_for_exec(&$db,&$bug_interface,$execution_id)
+function get_bugs_for_exec(&$db,&$bug_interface,$execution_id, $simple)
 {
 	$tables['execution_bugs'] = DB_TABLE_PREFIX . 'execution_bugs';
 	$tables['executions'] = DB_TABLE_PREFIX . 'executions';
@@ -215,8 +215,13 @@ function get_bugs_for_exec(&$db,&$bug_interface,$execution_id)
 	{  	
 		foreach($map as $elem)
 		{
+			if($simple){
+			$bug_list[$elem['bug_id']]['link_to_bts'] = $bug_interface->buildSimpleBugLink($elem['bug_id'],GET_BUG_SUMMARY);
+                        $bug_list[$elem['bug_id']]['build_name'] = $elem['build_name'];	
+			}else{
 			$bug_list[$elem['bug_id']]['link_to_bts'] = $bug_interface->buildViewBugLink($elem['bug_id'],GET_BUG_SUMMARY);
 			$bug_list[$elem['bug_id']]['build_name'] = $elem['build_name'];
+			}
 		}
 	}
 	

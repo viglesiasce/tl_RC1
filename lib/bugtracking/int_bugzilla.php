@@ -183,7 +183,7 @@ class bugzillaInterface extends bugtrackingInterface
 		{
 			//strike through all bugs that have a resolved, verified, or closed status.. 
 			if('RESOLVED' == $status || 'VERIFIED' == $status || 'CLOSED' == $status){
-				$str = "<del>$severity - " . htmlspecialchars($id). "</del>";
+				$str = "<del>" . htmlspecialchars($id). "</del>";
 			}else{
 		//when its is resolved but severity >critical ensure that the font is red and larger for visibility
 		if (!is_null($severity))
@@ -198,7 +198,52 @@ class bugzillaInterface extends bugtrackingInterface
 		return $status . " " . $severity . " " . $str;
 		
 	}
-	
+	        /**     
+         * Returns the status in a readable form (HTML context) for the bug with the given id
+         *       
+         * @param int id the bug id
+         *       
+         * @return string returns the status (in a readable form) of the given bug with only the ID number 
+         *       
+         * @version 1.1
+         * @author Arjen van Summeren - changed to return correct status STRING and not status ID
+         * @author Andreas Morsing 
+         * @since 10.10.2005, 17:40:32
+         **/     
+        function getBugStatusID($id)
+        {       
+                $status = $this->getBugStatus($id);
+                $severity = $this->getBugSeverity($id);
+                //if the bug wasn't found the status is null and we simply display the bugID
+                $str = htmlspecialchars($id);
+                if (!is_null($status))
+                {       
+			//when its is resolved but severity >critical ensure that the font is red and larger for visibility
+                		if (!is_null($severity))
+                		{       
+                 			if( 'critical' == $severity  || 'blocker' == $severity){
+                        			$size= "+1";
+					}elseif ('major' == $severity  || 'normal' == severity){
+						$size="+0";					
+					}
+					else{
+                                                $size="-1";
+                                        }
+                			if($status == 'RESOLVED'){
+						$color='blue';
+					}elseif ($status == 'CLOSED'){
+						$color= 'green'; 
+					}else{
+						$color= 'red';
+					}
+					$severity = "<font color=\"" . $color . "\" size=\"" . $size  . "\">$id</font> " ;
+					
+				}      
+        
+                }       
+                return  $severity; 
+        
+        }  		
 	/**
 	 * checks is bug id is present on BTS
 	 * 

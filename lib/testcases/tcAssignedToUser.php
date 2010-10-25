@@ -27,6 +27,17 @@ require_once("../../config.inc.php");
 require_once("common.php");
 require_once("exttable.class.php");
 
+/** uses get_bugs_for_exec() */
+require_once("exec.inc.php");
+
+if (config_get('interface_bugs') != 'NO')
+{
+  require_once(TL_ABS_PATH. 'lib' . DIRECTORY_SEPARATOR . 'bugtracking' .
+               DIRECTORY_SEPARATOR . 'int_bugtracking.php');
+}
+
+
+
 testlinkInitPage($db);
 $templateCfg = templateConfiguration();
 $user = new tlUser($db);
@@ -34,6 +45,12 @@ $names = $user->getNames($db);
 
 $urgencyImportance = config_get('urgencyImportance');
 $results_config = config_get('results');
+$gui->bugInterfaceOn = config_get('bugInterfaceOn');
+$bugInterface = null; 
+if ($gui->bugInterfaceOn) {
+        $bugInterface = config_get('bugInterface');
+}
+
 
 $args=init_args();
 if ($args->user_id > 0) {
@@ -51,7 +68,6 @@ $gui->tproject_name = $tproject_info['name'];
 $gui->warning_msg = '';
 $gui->tableSet = null;
 $gui->show_closed_builds = $args->show_closed_builds;
-
 $exec_img = TL_THEME_IMG_DIR . "exec_icon.png";
 $edit_img = TL_THEME_IMG_DIR . "edit_icon.png";
 
@@ -130,11 +146,11 @@ if( $doIt )
     $gui->tplanNames=$db->fetchRowsIntoMap($sql,'id');
 
 	$optColumns = array('user' => $args->show_user_column, 'priority' => $args->priority_enabled);
-
+	$show_bugs = true;
 	foreach ($gui->resultSet as $tplan_id => $tcase_set) {
 
 		$show_platforms = !is_null($tplan_mgr->getPlatforms($tplan_id));
-		list($columns, $sortByColumn) = getColumnsDefinition($optColumns, $show_platforms);
+		list($columns, $sortByColumn) = getColumnsDefinition($optColumns, $show_platform, $show_bugs);
 		$rows = array();
 
 		foreach ($tcase_set as $tcase_platform) {
@@ -197,7 +213,27 @@ if( $doIt )
 
 				$current_row[] = htmlspecialchars($tcase['creation_ts']) . 
 				                 " (" . get_date_diff($tcase['creation_ts']) . ")";
+                        	
+			
+        			$bug_interface = config_get('bugInterface');
+			        if ($bug_interface != 'NO')
+        			{
+					if($status != $map_status_code['not_run']){
+        				$bugs = get_bugs_for_exec($db,$bug_interface,$last_execution[$tcversion_id]['execution_id'], 1);
+					}
+				}
 				
+				if($bugs)
+                        	{       
+					$bugstring = "";
+					foreach($bugs as $key => $value) {
+						$bugstring .= $bugs[$key]['link_to_bts'];
+					}
+                        		$current_row[]  = $bugstring;	
+				}
+				else{
+					$current_row[]  = htmlspecialchars("-");
+				}
 				// add this row to the others
 				$rows[] = $current_row;
 			}
@@ -207,8 +243,8 @@ if( $doIt )
 		$matrix = new tlExtTable($columns, $rows, "tl_table_tc_assigned_to_user_for_tplan_".$tplan_id);
 		$matrix->title = $l18n['testplan'] . ": " . htmlspecialchars($gui->tplanNames[$tplan_id]['name']);
 		
-		// default grouping by first column, which is user for overview, build otherwise
-		$matrix->setGroupByColumnName($columns[0]['title']);
+		// default grouping by fifth column, which is priority for overview, status otherwise
+		$matrix->setGroupByColumnName($columns[4]['title']);
 		
 		// make table collapsible if more than 1 table is shown and surround by frame
 		if (count($tplanSet) > 1) {
@@ -322,19 +358,19 @@ function init_args()
  * get Columns definition for table to display
  *
  */
-function getColumnsDefinition($optionalColumns, $show_platforms)
+function getColumnsDefinition($optionalColumns, $show_platforms, $show_bugs)
 {
   	static $labels;
 	if( is_null($labels) )
 	{
 		$lbl2get = array('build' => null,'testsuite' => null,'testcase' => null,'platform' => null,
-		       			 'user' => null, 'priority' => null,'status' => null, 'version' => null, 'due_since' => null);
+		       			 'user' => null, 'priority' => null,'status' => null, 'version' => null, 'due_since' => null, 'bugs' => null);
 		$labels = init_labels($lbl2get);
 	}
 
 	$colDef = array();
 	// sort by test suite per default
-	$sortByCol = $labels['testsuite'];
+	$sortByCol = $labels['suite'];
 	
 	// user column is only shown for assignment overview
 	if ($optionalColumns['user']) 
@@ -344,24 +380,26 @@ function getColumnsDefinition($optionalColumns, $show_platforms)
 		$sortByCol = $labels['build'];
 	}
 	
-	$colDef[] = array('title' => $labels['build'], 'width' => 80);
-	$colDef[] = array('title' => $labels['testsuite'], 'width' => 130);
-	$colDef[] = array('title' => $labels['testcase'], 'width' => 130);
+	$colDef[] = array('title' => $labels['build'], 'width' => 30);
+	$colDef[] = array('title' => $labels['testsuite'], 'width' => 80);
+	$colDef[] = array('title' => $labels['testcase'], 'width' => 180);
 	if ($show_platforms)
 	{
 		$colDef[] = array('title' => $labels['platform'], 'width' => 50);
 	}
-	
 	// 20100816 - asimon - if priority is enabled, enable default sorting by that column
 	if ($optionalColumns['priority']) 
 	{
 	  	$sortByCol = $labels['priority'];
-		$colDef[] = array('title' => $labels['priority'], 'width' => 50);
+		$colDef[] = array('title' => $labels['priority'], 'width' => 30);
 	}
 	
 	$colDef[] = array('title' => $labels['status'], 'width' => 50);
-	$colDef[] = array('title' => $labels['due_since'], 'width' => 100);
-
+	$colDef[] = array('title' => $labels['due_since'], 'width' => 70);
+       if ($show_bugs)
+        {
+                $colDef[] = array('title' => $labels['bugs'], 'width' => 100);     
+        }  
 	return array($colDef, $sortByCol);
 }
 ?>
