@@ -150,7 +150,7 @@ if( $doIt )
 	foreach ($gui->resultSet as $tplan_id => $tcase_set) {
 
 		$show_platforms = !is_null($tplan_mgr->getPlatforms($tplan_id));
-		list($columns, $sortByColumn) = getColumnsDefinition($optColumns, $show_platform, $show_bugs);
+		list($columns, $sortByColumn) = getColumnsDefinition($optColumns, $show_platforms, $show_bugs);
 		$rows = array();
 
 		foreach ($tcase_set as $tcase_platform) {
@@ -211,8 +211,8 @@ if( $doIt )
 				$current_row[] = '<span class="' . $map_statuscode_css[$status]['css_class'] . '">' . 
 				                 $map_statuscode_css[$status]['translation'] . '</span>';
 
-				$current_row[] = htmlspecialchars($tcase['creation_ts']) . 
-				                 " (" . get_date_diff($tcase['creation_ts']) . ")";
+//				$current_row[] = htmlspecialchars($tcase['creation_ts']) . 
+//				                 " (" . get_date_diff($tcase['creation_ts']) . ")";
                         	
 			
         			$bug_interface = config_get('bugInterface');
@@ -229,7 +229,7 @@ if( $doIt )
 					foreach($bugs as $key => $value) {
 						$bugstring .= $bugs[$key]['link_to_bts'];
 					}
-                        		$current_row[]  = $bugstring;	
+                        		$current_row[]  = $bugstring ;	
 				}
 				else{
 					$current_row[]  = htmlspecialchars("-");
@@ -395,8 +395,8 @@ function getColumnsDefinition($optionalColumns, $show_platforms, $show_bugs)
 	}
 	
 	$colDef[] = array('title' => $labels['status'], 'width' => 50);
-	$colDef[] = array('title' => $labels['due_since'], 'width' => 70);
-       if ($show_bugs)
+	//$colDef[] = array('title' => $labels['due_since'], 'width' => 70);
+       	if ($show_bugs)
         {
                 $colDef[] = array('title' => $labels['bugs'], 'width' => 100);     
         }  
