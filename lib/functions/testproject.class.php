@@ -1175,7 +1175,17 @@ function setPublicStatus($id,$status)
 				$keywordMap[$kw->dbID] = $kw->name;
 			}
 		}
-		return $keywordMap;
+		
+		  /** STOLE THIS FROM THE OTHER TESTPLAN CLASS HAVE NO IDEA WHY THEY WOULD DO IT THE WAY ABOVE */	
+                $sql = " /* $debugMsg */ " .
+                                   " SELECT id,keyword " .
+                                   " FROM {$this->tables['keywords']} " .
+                                   " WHERE testproject_id = " . $testproject_id  . " " .
+                                   " order by keyword ";
+                $map_keywords = $this->db->fetchColumnsIntoMap($sql,'id','keyword');	
+
+	
+		return $map_keywords;
 	}
 	/* END KEYWORDS RELATED */
 

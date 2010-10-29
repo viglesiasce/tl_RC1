@@ -1180,7 +1180,7 @@ class tlTestCaseFilterControl extends tlFilterControl {
 				if (!$this->testproject_mgr) {
 					$this->testproject_mgr = new testproject($this->db);
 				}
-				$keywords = $this->testproject_mgr->get_keywords_map($this->args->testproject_id);
+				$keywords = $this->testproject_mgr->get_keywords_map($this->args->testproject_id );
 				break;
 
 			default:
@@ -1189,7 +1189,7 @@ class tlTestCaseFilterControl extends tlFilterControl {
 					$this->testplan_mgr = new testplan($this->db);
 				}
 				$tplan_id = $this->settings['setting_testplan']['selected'];
-				$keywords = $this->testplan_mgr->get_keywords_map($tplan_id, ' ORDER BY keyword ');
+				$keywords = $this->testplan_mgr->get_keywords_map($tplan_id, ' ORDER BY keyword ASC');
 				break;
 		}
 
