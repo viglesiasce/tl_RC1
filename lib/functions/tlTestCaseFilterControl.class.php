@@ -1182,7 +1182,14 @@ class tlTestCaseFilterControl extends tlFilterControl {
 				}
 				$keywords = $this->testproject_mgr->get_keywords_map($this->args->testproject_id );
 				break;
-
+			case 'plan_add_mode':
+				 // we need the keywords for the whole testproject
+				if (!$this->testproject_mgr) {
+                                        $this->testproject_mgr = new testproject($this->db);
+                                }
+                                $keywords = $this->testproject_mgr->get_keywords_map($this->args->testproject_id );
+	
+				break;
 			default:
 				// otherwise (not in edit mode), we want only keywords assigned to testplan
 				if (!$this->testplan_mgr) {

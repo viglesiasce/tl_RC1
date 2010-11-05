@@ -857,7 +857,7 @@ $g_repositoryCompressionType = TL_REPOSITORY_COMPRESSIONTYPE_NONE;
 
 // the maximum allowed file size for each repository entry, default 1MB.
 // Also check your PHP settings (default is usually 2MBs)
-$tlCfg->repository_max_filesize = 2; //MB
+$tlCfg->repository_max_filesize = 20; //MB
 
 // TRUE -> when you upload a file you can give no title
 $g_attachments->allow_empty_title = FALSE;
@@ -1160,7 +1160,7 @@ $tlCfg->tree_filter_cfg->requirements->automatic_tree_refresh = ENABLED;
 /** Maximum uploadfile size to importing stuff in TL */
 // Also check your PHP settings (default is usually 2MBs)
 // unit BYTES is required by MAX_FILE_SIZE HTML option
-$tlCfg->import_file_max_size_bytes = '409600';
+$tlCfg->import_file_max_size_bytes = '20009600';
 
 /** Maximum line size of the imported file */
 $tlCfg->import_max_row = '10000'; // in chars
