@@ -266,7 +266,7 @@ function init_checkboxes(&$args) {
 	$arrCheckboxes = array();
 	
 	// these are the options which are always needed, type-specific ones follow below in switch
-	$arrCheckboxes[] = array( 'value' => 'toc','description' => 'opt_show_toc', 'checked' => 'n');
+	$arrCheckboxes[] = array( 'value' => 'toc','description' => 'opt_show_toc', 'checked' => 'y');
 	$arrCheckboxes[] = array( 'value' => 'headerNumbering','description' => 'opt_show_hdrNumbering','checked' => 'n');
 	
 	switch($args->doc_type) 
@@ -286,10 +286,10 @@ function init_checkboxes(&$args) {
 		
 		default:
 			$arrCheckboxes[] = array('value' => 'header','description' => 'opt_show_suite_txt','checked' => 'n');
-			$arrCheckboxes[] = array('value' => 'summary','description' => 'opt_show_tc_summary','checked' => 'y');
+			$arrCheckboxes[] = array('value' => 'summary','description' => 'opt_show_tc_summary','checked' => 'n');
 			$arrCheckboxes[] = array('value' => 'body','description' => 'opt_show_tc_body','checked' => 'n');
 			$arrCheckboxes[] = array('value' => 'author','description' => 'opt_show_tc_author','checked' => 'n');
-			$arrCheckboxes[] = array('value' => 'keyword','description' => 'opt_show_tc_keys','checked' => 'n');
+			$arrCheckboxes[] = array('value' => 'keyword','description' => 'opt_show_tc_keys','checked' => 'y');
 			$arrCheckboxes[] = array('value' => 'cfields','description' => 'opt_show_cfields','checked' => 'n');
 
 			if($args->testprojectOptReqs) 

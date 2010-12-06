@@ -223,7 +223,7 @@ if( $doIt )
 					}
 				}
 				
-				if($bugs)
+				if(count($bugs) > 0)
                         	{       
 					$bugstring = "";
 					foreach($bugs as $key => $value) {
@@ -234,6 +234,7 @@ if( $doIt )
 				else{
 					$current_row[]  = htmlspecialchars("-");
 				}
+				$bugs = NULL;
 				// add this row to the others
 				$rows[] = $current_row;
 			}

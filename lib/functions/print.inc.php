@@ -840,9 +840,32 @@ function renderTestCaseForPrinting(&$db, &$node, &$printingOptions, $level, $tpl
 	  
 	if ($printingOptions['toc'])
 	{
+		if ($printingOptions['passfail']){
+                if ($exec_info)
+                {
+			//<span style="color:green">different text color</span>
+			switch( $exec_info[0]['status'] ) {
+                        	case "p" :
+				$result_of_case .= '<span style="color:green">' . $cfg['status_labels'][$exec_info[0]['status']] . '</span>';
+				break;
+				case "f" :
+				$result_of_case .= '<span style="color:red">' . $cfg['status_labels'][$exec_info[0]['status']] . '</span>';
+				break;
+				default :
+				$result_of_case .= $cfg['status_labels'][$exec_info[0]['status']];
+				break;
+			}
+                }
+                else
+                {
+                        $result_of_case .= "<b>Not Run</b>";
+
+                }
+		}
+
 		$printingOptions['tocCode'] .= '<p style="padding-left: ' . 
 	                                     (15*$level).'px;"><a href="#' . prefixToHTMLID('tc'.$id) . '">' .
-	       	                             $name . '</a></p>';
+	       	                             $name . '</a> ' .  $result_of_case  . '</p>';
 		$code .= '<a name="' . prefixToHTMLID('tc'.$id) . '"></a>';
 	}
       
@@ -877,7 +900,7 @@ function renderTestCaseForPrinting(&$db, &$node, &$printingOptions, $level, $tpl
 		$code .= "</td></tr>\n";
   	}
 
-    if ($printingOptions['body'] || $printingOptions['summary'])
+    if ( $printingOptions['body'] || $printingOptions['summary'])
     {
         $tcase_pieces = array('summary');
     }
@@ -1303,6 +1326,7 @@ function buildTestExecResults(&$dbHandler,$cfg,$labels,$exec_info,$colspan)
 	
 	return $out;
 }
+
 
 
 /**

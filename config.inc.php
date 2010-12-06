@@ -206,7 +206,7 @@ $tlCfg->sessionInactivityTimeout = 9900;
  * This will prevent sessions timing out after very short periods of time
  * Warning: your server could block this settings
  **/
-//ini_set('session.cache_expire',900);
+ini_set('session.cache_expire',9900);
 
 /**
  * Set the session garbage collection timeout value (in seconds)
@@ -214,7 +214,7 @@ $tlCfg->sessionInactivityTimeout = 9900;
  * If you want sessions to last longer this must be set to a higher value.
  * You may need to set this in your global php.ini if the settings don't take effect.
  */
-//ini_set('session.gc_maxlifetime', 54000);
+ini_set('session.gc_maxlifetime', 432000);
 
 
 // ----------------------------------------------------------------------------
