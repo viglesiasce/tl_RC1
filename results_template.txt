@@ -1,6 +1,0 @@
-Summary of Result:
-
-IP Address of DUT:
-
-CLI Output during testing:
-

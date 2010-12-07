@@ -63,16 +63,15 @@ my @columns;
   @columns = $csv->fields();            # get the parsed fields
   if($columns[0] =~ /^[0-9]+$/){
   $testcase_hash{$columns[0]}{'summary'} = $columns[1];
-  $testcase_hash{$columns[0]}{'definitions'} = $columns[2];
-  $testcase_hash{$columns[0]}{'keywords'} = $columns[3];
-  $testcase_hash{$columns[0]}{'platforms'} = $columns[4];
-  $testcase_hash{$columns[0]}{'mandatory'} = $columns[5];
-  $testcase_hash{$columns[0]}{'random'} = $columns[6];
-  $testcase_hash{$columns[0]}{'full'} = $columns[7];
-  $testcase_hash{$columns[0]}{'sanity'} = $columns[8];
-  $testcase_hash{$columns[0]}{'automation'} = $columns[9];
-  $testcase_hash{$columns[0]}{'rewrite'} = $columns[10];
-  $testcase_hash{$columns[0]}{'notes'} = $columns[11];
+  $testcase_hash{$columns[0]}{'keywords'} = $columns[2];
+  $testcase_hash{$columns[0]}{'platforms'} = $columns[3];
+  $testcase_hash{$columns[0]}{'mandatory'} = $columns[4];
+  $testcase_hash{$columns[0]}{'random'} = $columns[5];
+  $testcase_hash{$columns[0]}{'full'} = $columns[6];
+  $testcase_hash{$columns[0]}{'sanity'} = $columns[7];
+  $testcase_hash{$columns[0]}{'automation'} = $columns[8];
+  $testcase_hash{$columns[0]}{'rewrite'} = $columns[9];
+  $testcase_hash{$columns[0]}{'notes'} = $columns[10];
   }
 }
 
@@ -155,6 +154,9 @@ if ($PARAMS{'display'} eq "testcase") {
    print   $gen->executiontype(1) . "\n\t\t";
    print   $gen->importance(2) . "\n\t\t";
    print "\t\t<keywords>";
+  
+   my @platforms = split(/,/, $testcase_hash{$key}{'platforms'});   
+   push(@keywords, @platforms);
    if($testcase_hash{$key}{'mandatory'}){
 	push(@keywords,"Mandatory" );
    }
