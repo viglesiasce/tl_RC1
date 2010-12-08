@@ -50,7 +50,7 @@ sub get_blade_info(){
 	$telnet->cmd('terminal length 0');
         
 	$telnet->print($cmd);
-	my ($result_string) = $telnet->waitfor('/\#\s*?$/');
+	my ($result_string) = $telnet->waitfor('/[A-Z,a-z,0-9]\#\s*?$/');
 	$telnet->cmd('no terminal length');
   
 	$result_string =~ s/\001/ /g; 

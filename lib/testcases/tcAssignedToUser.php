@@ -202,7 +202,7 @@ if( $doIt )
 				}
 				
 				$last_execution = $tcase_mgr->get_last_execution($tcase_id, $tcversion_id, $tplan_id, 
-				                                                 $tcase['build_id'], 
+				                                                 null, 
 				                                                 $tcase['platform_id']);
 				$status = $last_execution[$tcversion_id]['status'];
 				if (!$status) {
