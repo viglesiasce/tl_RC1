@@ -56,7 +56,16 @@ Ext.ux.IFrameComponent = Ext.extend(Ext.BoxComponent, {
      // add iframe as the child component
      items: [ new Ext.ux.IFrameComponent({ id: 'iFrame2', url: 'https://testlink.occamnetworks.com/lib/testcases/tcAssignedToUser.php' }) ]
    }); 
-
+   var testplan = new Ext.Panel({
+     id: 'testplan_panel',
+     title: current_tp_name + ' Testcases',
+     //closable:true,
+     // layout to fit child component
+     layout:'fit',
+     // add iframe as the child component
+     items: [ new Ext.ux.IFrameComponent({ id: 'iFrame3', url: 'https://testlink.occamnetworks.com/lib/testcases/tcAssignedToUser.php?show_all_users=1&tplan_id' + '{/literal}{$gui->testplanID}{literal}' }) ]
+   });
+ 
    var tabs2 = new Ext.TabPanel({
         renderTo: 'center_block',
         activeTab: 0,
@@ -65,7 +74,7 @@ Ext.ux.IFrameComponent = Ext.extend(Ext.BoxComponent, {
 	//autoHeight: true,
 	//plain:true,
 	defaults:{autoScroll: true},
-        items:[ testcases, wiki]
+        items:[ testcases, testplan,wiki]
     });
 
 {/literal}
