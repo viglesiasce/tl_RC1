@@ -214,12 +214,14 @@ if( $doIt )
 //				$current_row[] = htmlspecialchars($tcase['creation_ts']) . 
 //				                 " (" . get_date_diff($tcase['creation_ts']) . ")";
                         	
-			
+				$bugs = NULL;
+	
         			$bug_interface = config_get('bugInterface');
 			        if ($bug_interface != 'NO')
         			{
 					if($status != $map_status_code['not_run']){
-        				$bugs = get_bugs_for_exec($db,$bug_interface,$last_execution[$tcversion_id]['execution_id'], 1);
+//        				//$bugs = get_bugs_for_exec($db,$bug_interface,$last_execution[$tcversion_id]['execution_id'], 1);
+					$bugs = get_bugs_for_case($db,$bug_interface,$tplan_id, $tcversion_id, $tcase['platform_id'] , 1);
 					}
 				}
 				
@@ -234,7 +236,6 @@ if( $doIt )
 				else{
 					$current_row[]  = htmlspecialchars("-");
 				}
-				$bugs = NULL;
 				// add this row to the others
 				$rows[] = $current_row;
 			}

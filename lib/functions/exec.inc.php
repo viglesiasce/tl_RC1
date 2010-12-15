@@ -227,7 +227,35 @@ function get_bugs_for_exec(&$db,&$bug_interface,$execution_id, $simple)
 	
 	return($bug_list);
 }
+ 
+function get_bugs_for_case(&$db,&$bug_interface, $testplan_id, $testcase_id, $platform_id , $simple){
+	$tables['execution_bugs'] = DB_TABLE_PREFIX . 'execution_bugs';
+        $tables['executions'] = DB_TABLE_PREFIX . 'executions';
+        $tables['builds'] = DB_TABLE_PREFIX . 'builds';
 
+        $bug_list=array();
+        $sql =  "select distinct bug_id from execution_bugs b left join executions e on b.execution_id=e.id " .
+                "where execution_id IN( SELECT id FROM executions e where tcversion_id=" . $testcase_id  . " and testplan_id=" . $testplan_id  . " and platform_id=" . $platform_id  . ")";
+        $map = $db->get_recordset($sql);
+
+        // BUGID 3440 - added is_object() check
+        if( !is_null($map) && is_object($bug_interface))
+        {
+                foreach($map as $elem)
+                {
+                        if($simple){
+                        $bug_list[$elem['bug_id']]['link_to_bts'] = $bug_interface->buildSimpleBugLink($elem['bug_id'],GET_BUG_SUMMARY);
+                        }else{
+                        $bug_list[$elem['bug_id']]['link_to_bts'] = $bug_interface->buildViewBugLink($elem['bug_id'],GET_BUG_SUMMARY);
+                        }
+                }
+        }
+
+        return($bug_list);
+
+
+
+}
 
 /**
  * get data about one test execution
