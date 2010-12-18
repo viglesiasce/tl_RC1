@@ -133,26 +133,29 @@ else // do report
 	// collect data for top test suites and users  
   	if (is_array($topLevelSuites)) 
   	{
+		$totals['tsuite_name'] = "Total";
+		$totals['total_tc'] = 0;
       	foreach($topLevelSuites as $key => $suiteNameID)
       	{
       		$results = $mapOfAggregate[$suiteNameID['id']];
       			
       		$element['tsuite_name'] = $suiteNameID['name'];
       		$element['total_tc'] = $results['total'];
-      		$element['percentage_completed'] = get_percentage($results['total'], 
-      		$results['total'] - $results['not_run']);
-
+      		$totals['total_tc'] += $results['total'];
+		$element['percentage_completed'] = get_percentage($results['total'], $results['total'] - $results['not_run']);
+		
         	unset($results['total']);
         	foreach($results as $key => $value)
         	{
       	    	$element['details'][$key]['qty'] = $results[$key];
+		$totals['details'][$key]['qty'] += $results[$key];
       		}
       		$element['details']['not_run']['qty'] = $results['not_run'];
-      	   
       		$arrDataSuite[$arrDataSuiteIndex] = $element;
       		$arrDataSuiteIndex++;
       	} 
-
+		$totals['percentage_completed'] = get_percentage($totals['total_tc'],$totals['total_tc'] - $totals['details']['not_run']['qty']);	
+		$arrDataSuite[$arrDataSuiteIndex] = $totals;
     	$gui->statistics->testsuites = $arrDataSuite;
 
       	// Get labels
