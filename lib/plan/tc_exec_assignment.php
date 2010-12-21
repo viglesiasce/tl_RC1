@@ -101,7 +101,7 @@ if(!is_null($args->doAction))
             	        $features2[$op][$feature_id]['build_id'] = $args->build_id; // BUGID 3406					    
 					}	
 				}
-				else if($args->tester_for_tcid[$key_tc][$platform_id] > 0)
+				elseif($args->tester_for_tcid[$key_tc][$platform_id] > 0)
 				{
 				    $op='ins';
 					$features2[$op][$feature_id]['user_id'] = $args->tester_for_tcid[$key_tc][$platform_id];
