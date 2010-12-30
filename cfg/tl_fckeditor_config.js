@@ -21,3 +21,4 @@ FCKConfig.ToolbarSets["tl_mini"] = [
 /* Disable a server browsing */
 FCKConfig.LinkBrowser = false;
 FCKConfig.LinkUpload = false;
+FCKConfig.EnterMode = 'br' ; 
